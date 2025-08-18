@@ -2,15 +2,12 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
-Hi! This is my Obsidian site thing!
+Hi! Welcome to my personal Hell. Take what you want, though I recommend none of it.
 
+[[✍WRITING/New Alaska/🔗New Alaska Mythos\|🔗New Alaska Mythos]]
+>[[Jammey Inflames\|Jammey Inflames]]
 
-[[Jammey Inflames\|Jammey Inflames]]
-	[[✍WRITING/New Alaska/FROM GDOCS/Jammey Inflames - Idea, Notes, Etc\|Jammey Inflames - Idea, Notes, Etc]]
-	[[✍WRITING/New Alaska/FROM GDOCS/Jammey Inflames, Drafts\|Jammey Inflames, Drafts]]
-
-
-[[📃Constitution/Constitution of Selves & Philosophy\|Constitution of Selves & Philosophy]]
+>[[📃Constitution/Constitution of Selves & Philosophy\|Constitution of Selves & Philosophy]]
 
 
 
