@@ -4,7 +4,10 @@
 
 Hi! This is my Obsidian site thing!
 
-Okay maybe this will force an update. Maybe.
+
+Jammey Inflames
+	[[WRITING/New Alaska/FROM GDOCS/Jammey Inflames - Idea, Notes, Etc\|Jammey Inflames - Idea, Notes, Etc]]
+	[[WRITING/New Alaska/FROM GDOCS/Jammey Inflames, Drafts\|Jammey Inflames, Drafts]]
 
 
 Constitution
