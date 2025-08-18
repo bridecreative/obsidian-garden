@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/constitution/amendment-1-how-to-find-magic/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/📃Constitution/Amendment 1 How to Find Magic/","tags":["gardenEntry"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/new-alaska/from-gdocs/jammey-inflames-drafts/","tags":["Writing/Drafts","gardenEntry"]}
+{"dg-publish":true,"permalink":"/WRITING/New Alaska/FROM GDOCS/Jammey Inflames, Drafts/","tags":["Writing/Drafts","gardenEntry"]}
 ---
 
 
