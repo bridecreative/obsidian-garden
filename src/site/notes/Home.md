@@ -7,9 +7,9 @@ Hi! This is my Obsidian site thing!
 Okay maybe this will force an update. Maybe.
 
 
-[[✍️WRITING/New Alaska/🔗New Alaska Mythos\|🔗New Alaska Mythos]]
-	[[✍️WRITING/New Alaska/FROM GDOCS/Jammey Inflames - Idea, Notes, Etc\|Jammey Inflames - Idea, Notes, Etc]]
-	[[✍️WRITING/New Alaska/FROM GDOCS/Jammey Inflames, Drafts\|Jammey Inflames, Drafts]]
+[[WRITING/New Alaska/New Alaska Mythos\|New Alaska Mythos]]
+	[[WRITING/New Alaska/FROM GDOCS/Jammey Inflames - Idea, Notes, Etc\|Jammey Inflames - Idea, Notes, Etc]]
+	[[WRITING/New Alaska/FROM GDOCS/Jammey Inflames, Drafts\|Jammey Inflames, Drafts]]
 
 
 Constitution
