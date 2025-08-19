@@ -2,9 +2,11 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
-![NIERCROP.png](/img/user/Z-Images/NIERCROP.png)
-## "Very truly I tell you, unless a kernel of wheat falls to the ground and dies, it remains only a single seed. But if it dies, it produces many seeds." John 12-24
 
+## "Very truly I tell you, unless a kernel of wheat falls to the ground and dies, it remains only a single seed. But if it dies, it produces many seeds." John 12-24
+- - - 
+
+![NIERCROP.png](/img/user/Z-Images/NIERCROP.png)
 #### Hi! Welcome to my personal Hell. Take what you want, though I recommend none of it.
 - - - 
 
