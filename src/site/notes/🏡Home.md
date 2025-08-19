@@ -7,7 +7,7 @@ Hi! Welcome to my personal Hell. Take what you want, though I recommend none of 
 
 My current writing project…
 >[[✍WRITING/New Alaska/🔗New Alaska Mythos\|🔗New Alaska Mythos]]
->🔥[[Jammey Inflames\|Jammey Inflames]]
+>	🔥[[Jammey Inflames\|Jammey Inflames]]
 - - -
 
 Who Am I?
