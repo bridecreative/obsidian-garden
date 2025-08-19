@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/writing/new-alaska/new-alaska-mythos/","tags":["Writing/Mythos"]}
 ---
 
+https://music.youtube.com/watch?v=DpyMGxcFSFU&si=DfvBChY2ZHKkE3Az
+
 
 [[✍WRITING/New Alaska/🔗New Alaska Mythos\|🔗New Alaska Mythos]], [[✍WRITING/New Alaska/FROM GDOCS/Jammey Inflames - Idea, Notes, Etc\|Jammey Inflames - Idea, Notes, Etc]], [[🔥New Alaska Visualized.canvas|🔥New Alaska Visualized]] 
 
