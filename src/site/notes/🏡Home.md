@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
+### "Very truly I tell you, unless a kernel of wheat falls to the ground and dies, it remains only a single seed. But if it dies, it produces many seeds." John 12-24
+
 Hi! Welcome to my personal Hell. Take what you want, though I recommend none of it.
 - - - 
 
@@ -10,7 +12,7 @@ My current writing project…
 >	[[✍WRITING/New Alaska/All Roads Lead to Denali - Outline\|All Roads Lead to Denali - Outline]]
 >	[[✍WRITING/New Alaska/Hollis Tentative Ideas, Outline\|Hollis Tentative Ideas, Outline]]
 
-Inspiration 
+Inspiration for it
 >🔥[[Jammey Inflames\|Jammey Inflames]]
 - - -
 
