@@ -7,7 +7,10 @@ Hi! Welcome to my personal Hell. Take what you want, though I recommend none of 
 
 My current writing project…
 >[[✍WRITING/New Alaska/🔗New Alaska Mythos\|🔗New Alaska Mythos]]
->	🔥[[Jammey Inflames\|Jammey Inflames]]
+>	[[✍WRITING/New Alaska/All Roads Lead to Denali - Outline\|All Roads Lead to Denali - Outline]]
+>	[[✍WRITING/New Alaska/Hollis Tentative Ideas, Outline\|Hollis Tentative Ideas, Outline]]
+>		🔥[[Jammey Inflames\|Jammey Inflames]]
+
 - - -
 
 Who Am I?
