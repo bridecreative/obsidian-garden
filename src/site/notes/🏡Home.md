@@ -11,5 +11,6 @@ Hi! Welcome to my personal Hell. Take what you want, though I recommend none of 
 
 >[[👼OTHER WRITING MEGA/👩‍🎤Poetry/👩‍🎤Poetry\|👩‍🎤Poetry]]
 
-
+A note to my doctor, bless him. Falling in love with the place I belong:
+>[[📃Constitution/Ruiz, The Present - Mar. 2025\|Ruiz, The Present - Mar. 2025]]
 
