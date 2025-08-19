@@ -9,8 +9,9 @@ My current writing project…
 >[[✍WRITING/New Alaska/🔗New Alaska Mythos\|🔗New Alaska Mythos]]
 >	[[✍WRITING/New Alaska/All Roads Lead to Denali - Outline\|All Roads Lead to Denali - Outline]]
 >	[[✍WRITING/New Alaska/Hollis Tentative Ideas, Outline\|Hollis Tentative Ideas, Outline]]
->		🔥[[Jammey Inflames\|Jammey Inflames]]
 
+Inspiration 
+>🔥[[Jammey Inflames\|Jammey Inflames]]
 - - -
 
 Who Am I?

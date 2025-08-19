@@ -2,10 +2,10 @@
 {"dg-publish":true,"permalink":"/writing/new-alaska/all-roads-lead-to-denali-outline/","tags":["Writing/Outline"]}
 ---
 
-
 [[✍WRITING/New Alaska/🔗New Alaska Mythos\|🔗New Alaska Mythos]]
 
- Table of Contents
+
+ **Table of Contents**
 ```table-of-contents
 ```
 
