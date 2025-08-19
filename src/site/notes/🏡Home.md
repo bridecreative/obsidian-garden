@@ -9,6 +9,7 @@ Hi! Welcome to my personal Hell. Take what you want, though I recommend none of 
 
 >📜[[📃Constitution/Constitution of Selves & Philosophy\|Constitution of Selves & Philosophy]]
 
+>[[👼OTHER WRITING MEGA/👩‍🎤Poetry/👩‍🎤Poetry\|👩‍🎤Poetry]]
 
 
 
