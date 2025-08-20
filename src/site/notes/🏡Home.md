@@ -54,6 +54,6 @@ I wrote it based off of my limerent love. She’s dead to me, though I still pra
 **I’m basically not human.**
 #HumanityIndex 
 [[🤸‍♀️Humanity Index/FASHION & OUTFITS\|FASHION & OUTFITS]]
-[[ADULTING/The Manipulator Rulebook\|The Manipulator Rulebook]]
+[[🤸‍♀️Humanity Index/ADULTING/The Manipulator Rulebook\|The Manipulator Rulebook]]
 
 
