@@ -12,8 +12,10 @@
 **[[About Me\|About Me]]**
 #### My current writing project…
 >[[✍WRITING/New Alaska/🔗New Alaska Mythos\|🔗New Alaska Mythos]]
->	[[✍WRITING/New Alaska/All Roads Lead to Denali - Outline\|All Roads Lead to Denali - Outline]]
->	[[✍WRITING/New Alaska/Hollis Tentative Ideas, Outline\|Hollis Tentative Ideas, Outline]]
+
+Need to combine this
+>[[✍WRITING/New Alaska/All Roads Lead to Denali - Outline\|All Roads Lead to Denali - Outline]]
+>[[✍WRITING/New Alaska/Hollis Tentative Ideas, Outline\|Hollis Tentative Ideas, Outline]]
 
 **Inspiration for it**
 >🔥[[Jammey Inflames\|Jammey Inflames]]
@@ -28,13 +30,13 @@
 
 A note to my doctor, bless him. Falling in love with the place I belong—Tennessee. 
 >[[📃Constitution/Ruiz, The Beauty - Nov. 2024\|Ruiz, The Beauty - Nov. 2024]]
+
+Other excerpts of the magic I found here. :)
 >[[🤸‍♀️Humanity Index/🗺️Describing Tennessee\|🗺️Describing Tennessee]]
 
 - -  - 
 
-Trauma
-[[📃Constitution/Fragment Detective - Romantic Suicide at the Snowline\|Fragment Detective - Romantic Suicide at the Snowline]]
+**Trauma** (Read at Your Own Risk)
+[[FD, Or; Romantic Suicide at the Snowline - VOL 1, FINAL.pdf]]
 
-
-
-
+I’m basically not human.
