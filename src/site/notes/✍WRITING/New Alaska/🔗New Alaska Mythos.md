@@ -2,8 +2,10 @@
 {"dg-publish":true,"permalink":"/writing/new-alaska/new-alaska-mythos/","tags":["Writing/Mythos"]}
 ---
 
-https://music.youtube.com/watch?v=DpyMGxcFSFU&si=DfvBChY2ZHKkE3Az
 
+![denalitop.png](/img/user/Z-Images/denalitop.png)
+
+https://music.youtube.com/watch?v=DpyMGxcFSFU&si=DfvBChY2ZHKkE3Az
 
 [[✍WRITING/New Alaska/🔗New Alaska Mythos\|🔗New Alaska Mythos]], [[✍WRITING/New Alaska/FROM GDOCS/Jammey Inflames - Idea, Notes, Outline\|Jammey Inflames - Idea, Notes, Outline]], [[🔥New Alaska Visualized.canvas|🔥New Alaska Visualized]] 
 
