@@ -7,36 +7,53 @@
 - - - 
 
 ![NIERCROP.png](/img/user/Z-Images/NIERCROP.png)
-#### Hi! Welcome to my personal Hell. Take what you want, though I recommend none of it.
+### Hi! Welcome to my personal Hell. Take what you want, though I recommend none of it.
 - - - 
-**[[About Me\|About Me]]**
+#### **[[About Me\|About Me]]**
+##### [Last.FM](https://www.last.fm/user/AnIntenseAugust)
+
+- - -
 #### My current writing project…
+It’s a work in progress.
 >[[✍WRITING/New Alaska/🔗New Alaska Mythos\|🔗New Alaska Mythos]]
 
-Need to combine this
+Previous projects in the world
+>[[New Alaska Projects\|New Alaska Projects]]
+
+Current project in that world, need to condense this.
 >[[✍WRITING/New Alaska/All Roads Lead to Denali - Outline\|All Roads Lead to Denali - Outline]]
 >[[✍WRITING/New Alaska/Hollis Tentative Ideas, Outline\|Hollis Tentative Ideas, Outline]]
 
-**Inspiration for it**
->🔥[[Jammey Inflames\|Jammey Inflames]]
 - - -
 
-**Who Am I?**
+#### **Who Am I**
 >📜[[📃Constitution/Constitution of Selves & Philosophy\|Constitution of Selves & Philosophy]]
+
 - - -
 
-**Other Writings**
+#### **Other Writings**
 >[[👼OTHER WRITING MEGA/👩‍🎤Poetry/👩‍🎤Poetry\|👩‍🎤Poetry]]
 
 A note to my doctor, bless him. Falling in love with the place I belong—Tennessee. 
 >[[📃Constitution/Ruiz, The Beauty - Nov. 2024\|Ruiz, The Beauty - Nov. 2024]]
 
+Also sent to Ruiz
+>[[📃Constitution/Ruiz, The Present - Mar. 2025\|Ruiz, The Present - Mar. 2025]]
+
 Other excerpts of the magic I found here. :)
 >[[🤸‍♀️Humanity Index/🗺️Describing Tennessee\|🗺️Describing Tennessee]]
 
+
+- - -
+
+#### **The Most Beautiful Thing I’ll Ever Write**
+>[[✍WRITING/Drafts/Paris of Battlefield, Drafts Version 2.0\|Paris of Battlefield, Drafts Version 2.0]]
+
+I wrote it based off of my limerent love. She’s dead to me, though I still pray for her and her little ones—that’ll always be a one-sided thing. 
 - -  - 
+**I’m basically not human.**
+#HumanityIndex 
+[[🤸‍♀️Humanity Index/FASHION & OUTFITS\|FASHION & OUTFITS]]
+[[ADULTING/The Manipulator Rulebook\|The Manipulator Rulebook]]
 
-**Trauma** (Read at Your Own Risk)
-[[FD, Or; Romantic Suicide at the Snowline - VOL 1, FINAL.pdf]]
 
-I’m basically not human.
