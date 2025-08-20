@@ -11,4 +11,9 @@ OG, first writings in the setting.
 >[[✍WRITING/Drafts/Elliot 'Hiatus' Oblivion, Drafts\|Elliot 'Hiatus' Oblivion, Drafts]]
 
 Conception of the idea
-[[✍WRITING/Ysgard/Princess Dragoon, 001\|Princess Dragoon, 001]]
+>[[✍WRITING/Ysgard/Princess Dragoon, 001\|Princess Dragoon, 001]]
+
+Tangentially related lore (actually a goldmine, how did I write this?)
+>[[World Building _ LORE [from OneNote\|World Building _ LORE [from OneNote]]]
+
+I should make books showing Era to Era of what’s listed here.
