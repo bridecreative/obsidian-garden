@@ -3,7 +3,7 @@
 ---
 
 
->[[✍WRITING/New Alaska/FROM GDOCS/Jammey Inflames - Idea, Notes, Etc\|Jammey Inflames - Idea, Notes, Etc]]
+>[[✍WRITING/New Alaska/FROM GDOCS/Jammey Inflames - Idea, Notes, Outline\|Jammey Inflames - Idea, Notes, Outline]]
 >[[✍WRITING/New Alaska/FROM GDOCS/Jammey Inflames, Drafts\|Jammey Inflames, Drafts]]
 
 OG, first writings in the setting.

@@ -5,7 +5,7 @@
 https://music.youtube.com/watch?v=DpyMGxcFSFU&si=DfvBChY2ZHKkE3Az
 
 
-[[✍WRITING/New Alaska/🔗New Alaska Mythos\|🔗New Alaska Mythos]], [[✍WRITING/New Alaska/FROM GDOCS/Jammey Inflames - Idea, Notes, Etc\|Jammey Inflames - Idea, Notes, Etc]], [[🔥New Alaska Visualized.canvas|🔥New Alaska Visualized]] 
+[[✍WRITING/New Alaska/🔗New Alaska Mythos\|🔗New Alaska Mythos]], [[✍WRITING/New Alaska/FROM GDOCS/Jammey Inflames - Idea, Notes, Outline\|Jammey Inflames - Idea, Notes, Outline]], [[🔥New Alaska Visualized.canvas|🔥New Alaska Visualized]] 
 
 Based on William Gibson, The Witcher, and The Odyssey
 
@@ -72,61 +72,127 @@ Is writing fiction five minutes into the future. Specifically your not great at 
 
 # SET & SETTING
 ## WORLD
-### Two Moons
 
-
-**57 years in the future,  on a supernatural planet earth…**
-
-This world is where you don’t need superpowers to perform inhuman feats. It is 57 years in the future on Earth. Inexplicably, there are supernatural elements added that came about only a generation ago for unknown reasons. Some people are so powerful as a mere mortal, they seem like they're mutated. Maybe they have?
-
-Most of humanity now lives underground, and is nocturnal. There was a second, artificial moon put in the sky to reflect more moonlight, which it does well enough. So, there are now two moons. One the rock, the other an artifact. 
-
-**`Supernatural`**
-
-The World Listens
-
-- If you neglect what needs respect,  
-- if you wrong another severely enough,   
-- extreme communal unrest,   
-- and the purposeful creation of these. 
-
-  These things will invoke the powers of the world and bring about by way of supernatural manifestation righteous retribution, even if some innocent people are killed in the process—the world might say it needed to crack eggs to make an omelet.
-
-
-The Power of Word
-
-- If you break a promise,  
-- or if you invoke a vow and break that.
-	- marriage is very serious, and there are multiple kinds of marriage 
-	- there are many kinds of social contracts, friendships included
-	- it is not traditional to be done for average stuff, like everyday trades. though, in a huge capitalistic merger it could be that there are lifes on the line.
-
-
-
-#### Jammey Inflames, originally(?)
+### World from [[✍WRITING/New Alaska/FROM GDOCS/Jammey Inflames - Idea, Notes, Outline\|Jammey Inflames - Idea, Notes, Outline]]
 1. Humans are nocturnal because it’s so hot. Wake up and use UV lights for awhile first thing in the morning.
 2. Two moons. There is a second, artificial moon in the sky and it keeps the ground more than lit enough to walk to work by.
 3. Guns have almost been eradicated. Combustion engines are all but outlawed.  
-4. Mythical creatures and monsters exist, though they are indeed mythical and aren’t often seen.  
-5. All magical things are of the supernatural nature. No “I cast fireball\!” It's more like, “I pray for help, any help\!” And the attacker combusts into fire as if a fireball came down on them.  
-6. Aurora is pretty consistent, showing up most nights.  
-7. Your in Alaska. Long days, short nights or vise versa — but global warming has made it more or less summer-warm year round.  
-8. ~~Always talk of Greenland. Shit is always going down there, not here, like politics that happen in America but affect a battleground in the middle east.~~  
-9. DENALI in the backdrop.
+4. Aurora is pretty consistent, showing up most nights.  
+5. Your in Alaska. Long days, short nights or vise versa — but global warming has made it more or less summer-warm year round.  
+6. DENALI is a epicenter. 
 
 
 **Science is Magic** if you ever want to add fantasy, just devise a way technology works indistinguishable from magic.
 
 
-
-**Flora:**
-
+  **Dystopian future where the US has migrated to Alaska** after global warming forced it to, fought many wars, and now faces revolution. The world they wish to create is Solarpunk — they ultimately wish to make the world better while there is still a world to save.
 
 
+  **Geometrically oppressing buildings** \- Impressively odd buildings in terms of geography? Like the Las Vegas all-digital sphere thing? A pyramid for lower income people?
+
+
+  **The Fairyring / analogous to the Slums** — Is a little half “fairy ring” of a town. A horseshoe shape of buildings that make a little community. It lives in the shadow of an oppressive building. 
+
+  It is partially in the shadow of a huge, nondescript office building.*You eventually sabotage it, collapsing it.*
+
+  Features — Sunken Cargo Compartments in the middle of the ring and expanding below the grounds of it. Called so, because it was basically sea containers sitting some seven feet below the earth. Keeps cool that way. Snow was never a worry—never got cold enough. Not anymore. James was born and raised in the “North-West,” now she really truely is as North and West as it gets.
+
+
+  **The Underground** — Tunnels like a huge shopping mall connect industrial buildings, tunnels cannot lead to private residences (such as apartments, etc.)
+
+
+### The Loccal - Alaska
+
+**The Features:**
+
+1. It never gets completely light or dark depending on time of year\!
+2. Two Moons to keep the night sky bright, one rock, one artificial. 
+	1. One is artificial. It’s entire purpose is to illuminate night, since the world in now nocturnal 
+3. Because most people only come out at night—the day is too hot, and it’s too populated for everyone to be out all at the same time.
+4. Other recreations or transportation’s or otherwise new D.C. Monuments (?\!)
+
+
+  **Flora** — The rare pine tree, half dead. Sand pits are like litter, desertification taking control of what was once only lush green.
+
+- *Multicultural*   
+- (like portland?)   
+- Full of Slavs? Greenlanders? Japanese?   
+- What’s it like? Many different languages being spoken?
+
+
+THERE IS A REVOLUTION BREWING(?)*
+	There was a war just before this. Now there is a permanent dictator as “president.”
+
+Other features  
+1. ***“The Fourth Branch”***  
+	1. A literal Hierarchy of class / a caste system.  
+2. Megacorporations
+    1. Otherwise huge wealth disparity
+    2. Like today, but just exaggerated even more so.
+
+***In dialogue, people talk in blank verse.***
+
+### AESTHETICS
+Drugs, Sex, Music, Fashion
+	*SOUTHERN INFLUENCED*
+ 
+  1. What drugs?  
+	  1. Psychedelics, mainly. Booze, as always. Though, it’s looked down upon to do too much drinking. 
+	  2. Pharmaceuticals are prevalent though most of them have ways to rid yourself of their effects like Naltrexon does today.  
+  2. How sexual? To what extent?  
+    1. Chasity highly valued in women and men both. Being polite and kind, too. But knowing when to bite back is just as admired. 
+    2. Men, their temperance first and capacity for violence second. This is a world where you can assault someone — as long as you have a justifiable reason. 
+
+  3. What kind of music?
+	  1. The kind with not many vocals. EDM Jazz. The beat sounds like it’s going so many steps up then the same amount of steps back down.
+	  2. The counter culture is something that matches leather jackets.
+
+  4. What is the relationship between these?  
+    1.   
+  5. How do they feed into each other? Why?  
+
+  6. Fashion:
+	  1. 
+
+
+## Supernatural Parts
+### [[✍WRITING/Two Moons\|Two Moons]] 
+
+**The World Listens**
+1. If you neglect what needs respect,  
+2. if you wrong another severely enough,   
+3. extreme communal unrest,   
+4. and the purposeful creation of these. 
+
+>These things will invoke the powers of the world and bring about by way of supernatural manifestation righteous retribution, even if some innocent people are killed in the process—the world might say it needed to crack eggs to make an omelet.
+
+
+**The Power of Word**
+If you break a promise,  
+	or if you invoke a vow and break that.
+		EX: marriage is very serious, and there are multiple kinds of marriage 
+	there are many kinds of social contracts, friendships included
+		it is not traditional to be done for average stuff, like everyday trades. though, in a huge capitalistic merger it could be that there are lifes on the line.
+
+
+**Other**
+1. Mythical creatures and monsters exist.
+	1. They are created through above mentioned ways.
+2. All magical things are of the supernatural nature. No “I cast fireball\!” It's more like, “I pray for help, any help\!” And the attacker combusts into fire as if a fireball came down on them.  
+
+
+## SOCIETY
 
 
 
-### SOCIETY
+### CULTURE
+#### Shiks
+Something like how the shiks are suppose to always carry a weapon and bangle etc this society has similar rules. 
+
+As well as inspiration from their culture. 
+
+#### Southern Culture 
+[[🤸‍♀️Humanity Index/🗺️Describing Tennessee\|🗺️Describing Tennessee]]
 
 ### Values:
 
@@ -148,12 +214,10 @@ The Power of Word
 	1. With enough spirit you can gain god-like powers. (What powers??)
 	2. Trying to gain something intangible made material, like a gift. Knowledge you shouldn’t know counts, too.  Or, you could meditate and wake to a silver prosthetic hand in your lap. This hand would operate, essentially, on magic. A miracle. 
 
-
-
 ## RELIGION
 
-Of the Cult:
-### Fire & Blood (from Every Thing Made of Fire)
+### Cult of Fire & Blood from [[📃Constitution/EVERY THING MADE OF FIRE\|Every Thing Made of Fire]] 
+
 **Flame** is sacred. Flame is the ultimate cleanse. The natural state of all things is to become part of the dust it was borne of. We are all huge collections of it—and put under flame, we return to it in the form of ash. Ash is symbolic of that—ash is part of the larger dust, dust will feed the trees. Become part of the ground. To nourish new life, to become food that will be consumed, to nourish and fuel and return again. Dust and ash is the start and end. When you start fire, always consider that you are not too different from the flame that warms you. And that you too will become ash, someday. Surrender to it.
 
 **Blood** is sacred. Blood needs cleansing. Blood is the ultimate payment. Blood belongs in its place. To spill blood is wrong because you brought it out of its rightful belonging. Nothing is right or wrong. But if you spill blood, you are unclean. Light flame and surrender yourself to Above.
@@ -193,34 +257,6 @@ Observation of our own mirror suggests that the law of entropy as defined in the
 
 
 
-## CULTURE
-Something like how the shiks are suppose to always carry a weapon and bangle etc this society has similar rules. 
-
-Southern Politeness (!?)
-
-
-
-## AESTHETIC
-Drugs, Sex, Music, Fashion
-	*SOUTHERN INFLUENCED*
- 
-  1. What drugs?  
-	  1. Psychedelics, mainly. Booze, as always. Though, it’s looked down upon to do too much drinking. 
-	  2. Pharmaceuticals are prevalent though most of them have ways to rid yourself of their effects like Naltrexon does today.  
-  2. How sexual? To what extent?  
-    1. Chasity highly valued in women and men both. Being polite and kind, too. But knowing when to bite back is just as admired. 
-    2. Men, their temperance first and capacity for violence second. This is a world where you can assault someone — as long as you have a justifiable reason. 
-
-  3. What kind of music?
-	  1. The kind with not many vocals. EDM Jazz. The beat sounds like it’s going so many steps up then the same amount of steps back down.
-	  2. The counter culture is something that matches leather jackets.
-
-  4. What is the relationship between these?  
-    1.   
-  5. How do they feed into each other? Why?  
-
-  6. Fashion:
-	  1. 
 
 
 ## CHARACTERS
@@ -230,7 +266,7 @@ Drugs, Sex, Music, Fashion
 >Traits: Obsessive. Intense. Type-A. Often highly escalating—shoot first, ask questions never. Then shoot again. Addicted to pharmaceuticals. Makes them, too. Or, once did.
 
 **Breakdown**
-James in [[✍WRITING/New Alaska/FROM GDOCS/Jammey Inflames - Idea, Notes, Etc\|Jammey Inflames - Idea, Notes, Etc]] is: 
+James in [[✍WRITING/New Alaska/FROM GDOCS/Jammey Inflames - Idea, Notes, Outline\|Jammey Inflames - Idea, Notes, Outline]] is: 
 >A graphic designer that is laying low because their main job, involving having a background as a lawyer, was to make a drug in a think-tank to see if they could control culture would work… which it did. 
 >1. *Background as lawyer*
 >2. *Worked at Think Tank*
@@ -244,8 +280,98 @@ James in [[✍WRITING/New Alaska/FROM GDOCS/Jammey Inflames - Idea, Notes, Etc\|
 Your character needs to be this complex.
 
 
-### **Hollis Van der Berg** - Brooklyn
+### **Hollis Van der Berg** - Brook
 *Make it based on a mythical figures story.* 
+
+## PLOT
+Notes on Writing a Novel by Tim Rogers
+>Chapter 1:   
+ In chapter one, we meet the main character. We experience the main character’s “every day” and “one day” in that one chapter. I like to combine “every day” and “one day” \[in the first chapter\]  
+ In my opinion, the best way to do this is to start the story cold with the main character doing their job. I want to immediately frustrate my character. From the instant I introduce the character to the reader, I am itching to point the character at something that is different, and see them react to its being different. 
+ Then, when the “every day” becomes the “one day”, the transition is enormous and jarring even to our extraordinary character. 
+ Chapter one is around 3,000 or 4,000 words. Chapter one is a short story. It absolutely must work taken on its own. 
+
+
+
+Day (Question): 1A,  — 2C,  
+			      3d, — 4f,   
+				      5G,  — 6I
+					  g5, h5  — i6
+			     D3, E3 — 4F,
+Night (Answer):  a1, b1 — c2 
+
+*Each chapter is written by one of the characters.*
+
+
+
+### THE QUESTION
+What experience do you want this to be about that you've been through, and what experience in your life would you like to explore?
+
+1. The beauty and spirit of the south. It has to be drenched in that first and foremost.
+2. About a culture I want to see now in a worst case scenario future of run away global warming and a US government that's president is well understood to be a hereditary dictatorship. 
+	> What happens when there's too many elites? 
+3. Fuck that though. I want there to be a short story. 5,000 words or less motherfucker. Start thinking, what's a world with a problem you can have fun with and also conclude in 15 minutes of reading? 
+	>What is your job? 
+	>And is it delivery woman? 
+	>	*The story is about your profession.*
+4. 
+
+Like snow crash: 
+Chapter one involves two characters that end up in conflict but ultimately help each other.
+
+
+Idea:
+Needs to be a figure that correlates to dissociation. 
+
+
+
+
+
+Stop writing about possibilities of the world and start thinking of things impacting it at the very start of the story.
+
+
+
+
+# Alpha Drafts
+### Try 1 
+Part 001
+She entered the bar in all her bone chilling glory. It was the eye that looked like the pupil was a cross in the middle of iris like midnight waves.
+
+“This drinks on me, get the good hooch!”
+
+The crowded bar buzzed, uncertain. The bartender, a man that looked like a dumpling with buckteeth, broke the uncertain feeling in the air. He hollered, “a toast, thank you young lass!” And a round of applause emitted from him like a stone dropping in a still pond.
+
+There was good reason to be uncertain and the inhabitants of the little bar knew the why, it was that same little woman buying a round. 
+She wasn’t old enough to drink. 
+Even yet, she strutted up like a lioness to that same bucktooth bartender all grins, her arms raised as if in victory.
+
+“This better be good, young one.”
+“For what, Claude? On a night like this, how much better can it get?”
+“It’s not even noon.”
+
+
+
+
+# OUT_TAKES
+## OTHER
+**Option 1: On The Job**
+**Pro:**
+>How Tim Rogers does it… Though I’ve never read a novel by him.
+>
+
+
+**Option 2: Already God-like**
+**Pro:** 
+>is like Roger Zelazny would do… he is my favorite writer!
+>
+
+
+**Answer:**
+A mix of both.
+
+
+
+
 
 #### Take 1
 Background
@@ -301,92 +427,6 @@ What would I possibly do that would put me on the map? Or Brooklyn?
 from the north, with northern values. Logical, not gutical like the south is. Calculating, in a word. **Erik.** 
 
 They have some trouble understanding each other because of this. 
-
-
-
-## PLOT
-Notes on Writing a Novel by Tim Rogers
->Chapter 1:   
- In chapter one, we meet the main character. We experience the main character’s “every day” and “one day” in that one chapter. I like to combine “every day” and “one day” \[in the first chapter\]  
- In my opinion, the best way to do this is to start the story cold with the main character doing their job. I want to immediately frustrate my character. From the instant I introduce the character to the reader, I am itching to point the character at something that is different, and see them react to its being different. 
- Then, when the “every day” becomes the “one day”, the transition is enormous and jarring even to our extraordinary character. 
- Chapter one is around 3,000 or 4,000 words. Chapter one is a short story. It absolutely must work taken on its own. 
-
-
-
-Day (Question): 1A,  — 2C,  
-			      3d, — 4f,   
-				      5G,  — 6I
-					  g5, h5  — i6
-			     D3, E3 — 4F,
-Night (Answer):  a1, b1 — c2 
-
-*Each chapter is written by one of the characters.*
-
-
-
-### THE QUESTION
-What experience do you want this to be about that you've been through, and what experience in your life would you like to explore?
-
-1. The beauty and spirit of the south. It has to be drenched in that first and foremost.
-2. About a culture I want to see now in a worst case scenario future of run away global warming and a US government that's president is well understood to be a hereditary dictatorship. 
-	> What happens when there's too many elites? 
-3. Fuck that though. I want there to be a short story. 5,000 words or less motherfucker. Start thinking, what's a world with a problem you can have fun with and also conclude in 15 minutes of reading? 
-	>What is your job? 
-	>And is it delivery woman? 
-	>	*The story is about your profession.*
-4. 
-
-Like snow crash: 
-Chapter one involves two characters that end up in conflict but ultimately help each other.
-
-
-Idea:
-Needs to be a figure that correlates to dissociation. 
-
-
-
-
-
-Stop writing about possibilities of the world and start thinking of things impacting it at the very start of the story.
-
-
-
-## OTHER
-**Option 1: On The Job**
-**Pro:**
->How Tim Rogers does it… Though I’ve never read a novel by him.
->
-
-
-**Option 2: Already God-like**
-**Pro:** 
->is like Roger Zelazny would do… he is my favorite writer!
->
-
-
-**Answer:**
-A mix of both.
-
-
-
-## Alpha Drafts
-### Try 1 
-Part 001
-She entered the bar in all her bone chilling glory. It was the eye that looked like the pupil was a cross in the middle of iris like midnight waves.
-
-“This drinks on me, get the good hooch!”
-
-The crowded bar buzzed, uncertain. The bartender, a man that looked like a dumpling with buckteeth, broke the uncertain feeling in the air. He hollered, “a toast, thank you young lass!” And a round of applause emitted from him like a stone dropping in a still pond.
-
-There was good reason to be uncertain and the inhabitants of the little bar knew the why, it was that same little woman buying a round. 
-She wasn’t old enough to drink. 
-Even yet, she strutted up like a lioness to that same bucktooth bartender all grins, her arms raised as if in victory.
-
-“This better be good, young one.”
-“For what, Claude? On a night like this, how much better can it get?”
-“It’s not even noon.”
-
 
 
 
