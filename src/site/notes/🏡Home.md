@@ -32,7 +32,7 @@ Current project in that world, need to condense this.
 - - -
 
 #### **Other Writings**
->[[👼OTHER WRITING MEGA/👩‍🎤Poetry/👩‍🎤Poetry\|👩‍🎤Poetry]]
+>[[✍WRITING/👼OTHER WRITING MEGA/👩‍🎤Poetry/👩‍🎤Poetry\|👩‍🎤Poetry]]
 
 A note to my doctor, bless him. Falling in love with the place I belong—Tennessee. 
 >[[📃Constitution/Ruiz, The Beauty - Nov. 2024\|Ruiz, The Beauty - Nov. 2024]]
