@@ -27,7 +27,7 @@ Current project in that world, need to condense this.
 - - -
 
 #### **Who Am I**
->📜[[📃Constitution/Constitution of Selves & Philosophy\|Constitution of Selves & Philosophy]]
+>[[📃Constitution/📜Declaration of Selves\|📜Declaration of Selves]]
 
 - - -
 
@@ -55,5 +55,5 @@ I wrote it based off of my limerent love. She’s dead to me, though I still pra
 #HumanityIndex 
 [[🤸‍♀️Humanity Index/FASHION & OUTFITS\|FASHION & OUTFITS]]
 [[🤸‍♀️Humanity Index/ADULTING/The Manipulator Rulebook\|The Manipulator Rulebook]]
-
+[[⚕️Medical/Drugs/My Relationship with Drugs\|My Relationship with Drugs]]
 

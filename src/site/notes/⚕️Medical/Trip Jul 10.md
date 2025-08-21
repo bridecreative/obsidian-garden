@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/medical/trip-jul-10/"}
 ---
 
-#Insight 
+
 
 
 What does immortality look like in scifi

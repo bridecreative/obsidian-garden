@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/medical/trip-september-12th/"}
 ---
 
-#Insight 
+
 
 
 1. You do have dysphoria \- and it's that you aren't womanly at all now. It's dead wrong. Your voice isn't which you can work on in not too long.. BUT YOU ARE WOMANLY. Proof is you've got tits as big as your sisters, your mom said that to Kiley. Not a compliment for you, info for her.   

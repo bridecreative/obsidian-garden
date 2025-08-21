@@ -3,6 +3,11 @@
 ---
 
 
+```table-of-contents
+```
+
+# THE MEAT OF IT
+
 >Oregon forever changed me, Syd. I bundle up for 32 degrees and I gotta take off a layer by the time I walk five minutes. It was 42 out and my mom picked me up in a sweatshirt, she was shivering a bit but in that “oohhh, I’m starting the car!” way. But that was a 20 minute trip, not running out to start the car. Just yesterday I sat in 36 degrees with my coat wide open and I felt great, talking to a coworker while they smoked. The trees are naked and I don’t need to check my weather app ever - not ever - to see if it’s snowing in the next three days. A foot of snow? Kiss my ass. If that ever happens it’s only because it’s the end of the world, anyways.
 >
 >I love it here so much.
@@ -34,7 +39,45 @@ From 7/25/25
 >To get back — a battlefield. It’s the sweeping of the ground, how you can see how people could creep up hills, hide between the rolls to shoot. How you can imagine a cannon being in that field of grass or an ambush in the canopy of trees. Then there are clear spots with not a tree. Doesn’t look like there was ever a tree in these fields. You can almost see bodies on the ground, swords stuck in the ground. There’s old graveyards out of some movie you can’t pin, but you’ve seen something like it before, maybe in a dream. A lot of this feels like the city planners were ghosts and memories. There aren’t blocks here, if you tell someone you live four blocks away they don’t know what that is — that’s because there aren’t more than four sidewalks I’ve seen of, but also because the blocks are more like vertical rectangles, and the rectangles sort of form some sort of circle. The town is dense, far denser than any city in Oregon I’ve ever been in. 
 
 
-
-
 This places sky reminds me of Nagrand in WoW
+
+# Combined
+
+People park in the grass and nothing is symmetrical. It's not blocks, the locals don't even know what the fuck a block is. It's more like vertical slices and in total the city makes a sort of circle.... I don't know if Ive seen a block like in Oregon. Once. 
+
+I cannot imagine this summer jungle dying. 
+
+People here have layers. But the first layer is always an ego or country humble. 
+
+Someone said there aren't cowboys here. I haven't verified this. 
+
+Of rednecks: fruity compares to CO. Have under glow and lifted fronts. 
+
+- - -
+
+## Southern Culture
+
+Either / Aither 
+
+Friends will say "your momma gonna worry / be mad" and sincerely mean it, as in your mom cares about your own personal decisions - not that they only care about something you did that affects them like it means to me. 
+
+
+When a southern girl is thrown some bullshit she doesn't entertain it, she doesn't shut it down, she'll do some tongue and check 'oh sweetheart' 
+
+- - -
+
+## Driving here
+People don't know how to drive around you on the street. People don't know how to drive, generally. 
+
+People turn in their bright slash flash them when they see you at night presumably bc of how unusual it is to see someone walking at night.
+
+
+
+
+
+
+
+
+
+
 
