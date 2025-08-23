@@ -55,10 +55,10 @@ Example: Vietnam. Americans refused to adapt and be creative like the opps, so t
 
 # Isolationism
 
-Dominate powers will be
-Germany
-Isreal
-Japan
+Dominate powers in place of America will be:
+Germany for EU
+Isreal for Middle-east
+Japan for Asia
 
 America's raw power is suppressing these three currently. 
 
@@ -66,7 +66,7 @@ Over extension
 Debt
 Civil unrest (war)
 
-We are on the way to all three. And oddly, even if America collasps it doesn't mean it isn't threatening. It is. And it could take... LITERALLY CENTURIES.
+We are on the way to all three. And oddly, even if America collapses it doesn't mean it isn't threatening. It is. And it could take... LITERALLY CENTURIES. It could also be relatively quick, but empires don’t often crumble overnight, especially the biggest one to ever exist.
 
 
 

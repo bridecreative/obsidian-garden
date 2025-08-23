@@ -32,15 +32,9 @@ Current project in that world, need to condense this.
 - - -
 
 #### **Other Writings**
->[[✍WRITING/👼OTHER WRITING MEGA/👩‍🎤Poetry/👩‍🎤Poetry\|👩‍🎤Poetry]]
+>[[✍WRITING/👩‍🎤Poetry/👩‍🎤Poetry\|👩‍🎤Poetry]]
 
-A note to my doctor, bless him. Falling in love with the place I belong—Tennessee. 
->[[📃Constitution/Ruiz, The Beauty - Nov. 2024\|Ruiz, The Beauty - Nov. 2024]]
-
-Also sent to Ruiz
->[[📃Constitution/Ruiz, The Present - Mar. 2025\|Ruiz, The Present - Mar. 2025]]
-
-Other excerpts of the magic I found here. :)
+Excerpts of the magic I found here. :)
 >[[🤸‍♀️Humanity Index/🗺️Describing Tennessee\|🗺️Describing Tennessee]]
 
 
@@ -54,6 +48,6 @@ I wrote it based off of my limerent love. She’s dead to me, though I still pra
 **I’m basically not human.**
 #HumanityIndex 
 [[🤸‍♀️Humanity Index/FASHION & OUTFITS\|FASHION & OUTFITS]]
-[[🤸‍♀️Humanity Index/ADULTING/The Manipulator Rulebook\|The Manipulator Rulebook]]
+[[ADULTING/The Manipulator Rulebook\|The Manipulator Rulebook]]
 [[⚕️Medical/Drugs/My Relationship with Drugs\|My Relationship with Drugs]]
 
