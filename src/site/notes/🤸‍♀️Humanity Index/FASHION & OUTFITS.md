@@ -3,6 +3,7 @@
 ---
 
 
+Goal: 12 articles of each piece of clothing
 
 ***BECOME A HAT PERSON***
 
@@ -13,8 +14,7 @@ Outfit:
 2. Cute, Brooklyn Colorful Lululemon style leggings
 3. Lululemon is sick but so are sleeping shorts from Walmart... 
 	1. Chew on that. 
-
-Goal: 12 articles of clothing (besides pants)
+	2. Walmart is actually fine for a lot of things. Go figure.
 
 NOTE
 SHOP AT ROSS MORE FRFR
@@ -28,13 +28,11 @@ SHOP AT ROSS MORE FRFR
 	1. Ross sells these
 5. Calvin Klien cotton undies, bra and panties
 6. Spandex/nylon undies
-7. Exercise shorts
-8. 
+7. 
 
 Workout clothes 
 1. Those Walmart yours kindly undies
 2. Another pair of shorts for running
-
 
 
 Notices:
