@@ -46,6 +46,6 @@ not that’ll do you any good.
 # Mushrooms
 **SELL TOUCH** fake shrooms — they do give euphoria…
 
-[[⚕️Medical/Trip September 12th\|Trip September 12th]]
-[[⚕️Medical/Trip Jul 10\|Trip Jul 10]]
+[[⚕️Medical/Drugs/Trip September 12th\|Trip September 12th]]
+[[⚕️Medical/Drugs/Trip Jul 10\|Trip Jul 10]]
 

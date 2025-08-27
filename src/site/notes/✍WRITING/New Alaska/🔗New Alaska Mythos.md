@@ -7,11 +7,19 @@
 
 https://music.youtube.com/watch?v=DpyMGxcFSFU&si=DfvBChY2ZHKkE3Az
 
-[[✍WRITING/New Alaska/🔗New Alaska Mythos\|🔗New Alaska Mythos]], [[✍WRITING/New Alaska/FROM GDOCS/Jammey Inflames - Idea, Notes, Outline\|Jammey Inflames - Idea, Notes, Outline]], [[🔥New Alaska Visualized.canvas|🔥New Alaska Visualized]] 
+[[🔥New Alaska Visualized.canvas|🔥New Alaska Visualized]], [[✍WRITING/New Alaska/New Alaska Projects\|New Alaska Projects]]
 
 Based on William Gibson, The Witcher, and The Odyssey
 
 Tentative titles: New Alaska, **Hollis Fragments**
+
+Previous projects in the world
+>[[✍WRITING/New Alaska/New Alaska Projects\|New Alaska Projects]]
+
+# Table of Contents
+```table-of-contents
+```
+
 
 > “...and that is based on the premise that knowledge is to be found at the edge of experience and that the body is the site for gaining knowledge.”  
 > 	“[Transgressive Fiction](https://en.wikipedia.org/wiki/Transgressive_fiction)” from Rene Chun, a journalist
@@ -19,10 +27,6 @@ Tentative titles: New Alaska, **Hollis Fragments**
 >“I'm going to argue that irony and ridicule are entertaining and effective, and that, at the same time, they are agents of a great despair and stasis in U.S. culture, and that, for aspiring fictionists, they pose terrifically vexing problems.”
 >	“E unibus pluram” from David Foster Wallace
 
-
-# Table of Contents
-```table-of-contents
-```
 
 ### 🔑 LEGEND 
 (?\!) \= Come back to 
@@ -194,7 +198,8 @@ Something like how the shiks are suppose to always carry a weapon and bangle etc
 As well as inspiration from their culture. 
 
 #### Southern Culture 
-[[🤸‍♀️Humanity Index/🗺️Describing Tennessee\|🗺️Describing Tennessee]]
+
+
 
 ### Values:
 
@@ -218,7 +223,7 @@ As well as inspiration from their culture.
 
 ## RELIGION
 
-### Cult of Fire & Blood from [[📃Constitution/EVERY THING MADE OF FIRE\|Every Thing Made of Fire]] 
+### Cult of Fire & Blood from
 
 **Flame** is sacred. Flame is the ultimate cleanse. The natural state of all things is to become part of the dust it was borne of. We are all huge collections of it—and put under flame, we return to it in the form of ash. Ash is symbolic of that—ash is part of the larger dust, dust will feed the trees. Become part of the ground. To nourish new life, to become food that will be consumed, to nourish and fuel and return again. Dust and ash is the start and end. When you start fire, always consider that you are not too different from the flame that warms you. And that you too will become ash, someday. Surrender to it.
 
