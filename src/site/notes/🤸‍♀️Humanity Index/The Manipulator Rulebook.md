@@ -14,10 +14,20 @@ This is a obvious need. If you don't trust others your inclined to distrust ever
 
 
 ## Rule 1: Level 1: Foundation
+### 
+
 ### Confrontation
 Given direct pushback, most people will give ground — generally speaking. With direct confrontation of something, you almost necessarily force the other to back down. People do not like force because of Rule 0. They want to trust you.
 
-# Pre-gaslight: Plausible Deniability
+### The Offensive Advantage
+When someone comes at you with something you rightfully want to defend or address you are now on the backfoot. Whenever you are spending your time defending yourself you are allowing them to control the entire conversation and divert from the real problem, often enough they are making up problems for one reason or another. Manipulative people will do this when you bring up something that makes them uncomfortable, like calling them out for a bad behavior for example. They’ll say something that throws you off of that line of conversation, then you’re arguing on their terms. 
+
+>*The way around this is to just ignore them.* This can be difficult when they say something so inflammatory that you can’t help but react to it. 
+>
+>*Do not be reactive with someone manipulative.*
+
+
+## Pre-gaslight: Plausible Deniability
 Let’s say, your ex boyfriend texts you and asks if your able to talk late at night. You still care for him, maybe you shouldn’t, so when you wake up you ask him “what’s up?”
 
 He says: “It was about X but I found someone to talk to in the end. Besides, **if I talked to you I’d want to hold you…**”
@@ -30,7 +40,7 @@ You give condolences, you even say it’s always okay to call in the middle of t
 What is the problem?
 
 
-He is using plausible deniability to tell you what he obvious meant didn’t mean what you know it did. He didn’t explicitly say by holding you that you guys might have sex—but it didn’t need to be said. You aren’t 16 anymore, if you hold your ex lover in your arms, one you still have some feelings for, one thing *will* lead to another. Besides, even if that wasn’t true, the way he phrased it explicitly implied that by holding you… something else would follow… it’s in the ellipses. 
+He is using plausible deniability to tell you what he obviously meant didn’t mean what you know it did. He didn’t explicitly say by holding you that you guys might have sex—but it didn’t need to be said. You aren’t 16 anymore, if you hold your ex lover in your arms, one you still have some feelings for, one thing *will* lead to another. Besides, even if that wasn’t true, the way he phrased it implied that by holding you… something else would follow… it’s in the ellipses. 
 
 But because he didn’t say it outright he has wiggle room to turn it on you… Even though it didn’t need to be said explicitly—it was implicit. *You assumed, this is on you. He is sick and tired of you always assuming that it’s about sex.* Even though you’re right, it is about sex this time and it might often be about sex when you guys reach out. 
 
@@ -38,12 +48,9 @@ Rule 0 and Rule 1: Level 1: is heavily relied on here. He is taking advantage th
 
 
 ## Gaslight
-Plausible deniability is a word trick. He is trying to say that this word didn’t mean what you thought. If this happens often enough, it fucks with your head a bit. It gets to you. Gaslighting is not exactly a step above, it’s more like a flight of stairs up, but it’s similar. What you said didn’t mean what it meant. Even though—you’re right, their just twisting your words. This isn’t twisting the words, this is telling you the words were never said at all. That it’s your imagination, or you misremembered, or you’ve had this conversation before, or that it’s anything but what you actually know it to be. And because you want to trust them, you believe them. This will almost instantly make you feel like you’re losing your mind because this isn’t a twist, a gaslight means that you 1. You have a false memory. 2. Their full of shit. 
+Plausible deniability is a word trick. He is trying to say that this didn’t mean what you thought. If this happens often enough, it fucks with your head a bit. It gets to you. Gaslighting is not exactly a step above, it’s more like a flight of stairs up, but it’s similar. What you said didn’t mean what it meant. Even though—you’re right, their just twisting your words. This isn’t twisting the words, this is telling you the words were never said at all. That it’s your imagination, or you misremembered, or you’ve had this conversation before, or that it’s anything but what you actually know it to be. And because you want to trust them, you believe them. This will almost instantly make you feel like you’re losing your mind because this isn’t a twist, a gaslight means that you 1. You have a false memory. 2. Their full of shit. 
 
-**A gaslight is an entire fabrication.
-
-
-
+**A gaslight is an entire fabrication.**
 
 
 ## Rule 1: Level 2: Connect Four
