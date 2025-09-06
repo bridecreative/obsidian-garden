@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/constitution/declaration-of-selves/"}
+{"dg-publish":true,"permalink":"/constitution/declaration-of-selves/","tags":["WhoAmI"]}
 ---
 
-#WhoAmI 
 [[📃Constitution/Amendment 1 How to Find Magic\|Amendment 1 How to Find Magic]]
 
 
-**WE, the states inside the person born as Logan Baxter** writ here we have an unalienable set of beliefs and values we all must align on in order to be part of the overall system and take over headspace. Here, we agree on a core that grounds us all together. Else, we are part of an outer system. We agree, should any one part alter or state violate these severely enough we shall work in tandem to correct or otherwise rid ourselves of the offender.*
+**WE, the states inside the person born as Logan Baxter** writ here we have an unalienable set of beliefs and values we all must align on in order to be part of the overall system and take over headspace. Here, we agree on a core that grounds us all together. Else, we are part of an outer system. We agree, should any one part alter or state violate these severely enough we shall work in tandem to correct or otherwise rid ourselves of the offender.
 
 *When we forget what is true of us we will return here to keep true to our ancient wishes.*
 
