@@ -6,4 +6,4 @@ Hi! My name is August. Life is Cyclical. I live in the south, but like the south
 
 Some things I like is writing. I try to read, I say I like reading, but really I got a stack of books that make me look smart even though I'm more stupid than the next person. 
 
-I have a lot of scars and I can barely feel anything. I have even more trauma than I do scars somehow and it's a miracle I'm functioning whatsoever. 
+Fun facts about me: I have a lot of scars and I can barely feel anything. I have even more trauma than I do scars somehow and it's a miracle I'm functioning whatsoever. 

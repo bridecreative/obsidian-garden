@@ -24,7 +24,7 @@
 
 >I still find new things to love here. **Yesterday I felt like I was in some sort of battlefield, and people appeared here keeping one thing from where they were taken from. They build on top, and on top, and on top for hundreds of years never starting new but somehow it all made some sort of cohesion, everything disparate and stolen from some other place that melted together and somehow made neighborhoods, just like the world where I came from!** *Because this place hasn’t just abducted me, it’s also stolen my heart. I feel good here, I feel right. God is good. He brought me to where I always belonged.*
 
-All of [[Archive/📃Constitution/Ruiz, The Beauty - Nov. 2024\|Ruiz, The Beauty - Nov. 2024]]
+All of uiz, The Beauty - Nov. 2024]]
 First Paragraph:
 >If I didn’t know better I’d say outside the borders of Tennessee is an ocean and this place an isolated island. I’d say, people were abducted here through magical portals hundred of years ago from a hundred different worlds and they all mixed in this melting pot that was never taken over by one kind of peoples but all of it weaved into the land itself, the culture the same as when they came because the world itself determines what will be. They're all revolutionary, they're all divided three ways and they like it like that and everyone has the warrior gene that doesn’t hesitate or flinch at blood. Women are as much men as any man here if not stronger. But there's still harmony, and they still unite and they all give it their all for what they believe in which is unsaid but felt viscerally. 
 

@@ -10,6 +10,10 @@ Goal: 12 articles of each piece of clothing
 ***HIGH WAIST CROP TOP PERSON***'
 
 
+
+High waist thongs 
+
+
 - - - 
 
 *Outfits:*
