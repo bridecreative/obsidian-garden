@@ -35,7 +35,7 @@ Walmart is actually fine for a lot of things. Go figure.
 3. Cute, Brooklyn Colorful Lululemon style leggings
 4. Lululemon is sick but so are sleeping shorts from Walmart... 
 	1. Chew on that. 
-5. How lucky are we hat
+5. [How lucky are we hat](https://www.altardstate.com/as/sale/sale-accessories/how-lucky-are-we-camo-trucker-hat/001796_LCAP5090-0318.html)
 	1. #Research cute hats
 	2. Hats of brands I actually love
 6. ~~Converse~~
