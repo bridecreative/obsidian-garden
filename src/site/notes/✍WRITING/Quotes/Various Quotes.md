@@ -24,8 +24,11 @@ knowledge."
 The strong force of atoms holds the world, the universe, together. When you split that strong force you get atom bombs. It’s the same for me, if I let go of my strong force of love I’d explode into an oblivion. 
 -Me to Syd
 
+- - -
 
 **Discord Bio:** 
  -y ou can find me - blue - dreaming of California, Häagen-Dazs ice cream, and being under a roof - 
+
+I look inside my soul and I see calculation. Outside is chaos. Either way, I can't stand being in either.
 
 
