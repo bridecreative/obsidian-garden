@@ -25,6 +25,52 @@ Because, you see, the end of chapter one connects with precision to the beginnin
 Chapter 3:  
 Chapter three is the “because of that” chapter. Chapter three picks up with immediacy where chapter one left off. Chapter three is chapter one’s “because of that . . .”   Chapter three plugs with precision into the beginning of chapter four.    Chapter three’s ending is a big decision.   “Because of that”, chapter four begins.
 
+
+
+How Tim does it:
+>These hooks come to me all the time in my everyday life. I’ll think: “Wouldn’t it be hilarious to write a novel where . . . [an interesting event occurs].” If I like the idea enough, I keep it. — Later, I’ll look over ideas I’ve kept, and think, “What sort of person would live in the world where that particular event occurs?”
+
+This is sort of asking you: Does your character fit into the world you created? Do they feel like they belong in it, to it? Does their background fit what their doing?
+- Often, a characters job is part of the story. Interesting jobs can be the most interesting thing to read.
+
+**General:**
+All (but chapter 5 into 6) chapters are their own story, almost as if it’s episodic. An episode has it’s own start, middle, end — even when it’s two episodes long to tell the whole thing.
+
+**CHAPTER 3**
+- Chapter three introduces the conceptual hook of my novel.
+- Chapter three is twice as long as chapter one. We know the character. Now I introduce the character to the world.
+- At the end of chapter three, the main character makes a decision. It is a big decision.
+- “Because of that”, chapter four begins. It plugs right from 3 to 4 seamlessly. 
+- Chapter 3 might be best with your character “going dark,” they walk away from everything… or try. If there’s any reason their doing this its because of how much they are changing AKA the sheer growth they’ve done.
+
+>*In-between (3.5)* Chapter three has new characters as well. I can put as many new characters in chapter three as I need to. I can put as many new characters into chapter four as I need to, as well.
+
+**CHAPTER 4**
+- because their was a world altering change, personally or even literally affecting the world, show the point of view of another character while those changes take affect. 
+- Chapter 4 is not just the jarring “oneday” that starts a whole series of events, this is when the events *creates a new life entirely* for the main character 
+- They meet a new, second MC.
+
+>**TIM SAYS:** Good stories are never about one character.
+
+**CHAPTER 5**
+- Chapter five is up to 20k words long. It is all the way up til the wrap up of the second main character you introduced. 
+- The secondary main character and first MC need to meet. The reader themselves must feel their need to meet, it’s necessary. 
+	- This is delicate. How do they meet, and why?
+>“I make the characters live, and I sometimes despise what happens to them."
+- chapter five always concludes with a cliffhanger because of which the Second Main Character absolutely must meet the First Main Character.
+	- This chapter is not self contained because the secondary MC you’ve been following is ultimately a slave to the destiny of the first MC.
+>Chapter five is a product of your passion for the story — if it’s not, it will fall flat. Paraphrase: “Chapter 5 is easy to fuck up.” 
+
+
+>A huge thing happens in the first chapter. A big thing happens in the third chapter. A big thing happens in the fourth chapter. Through these large events, I as an author have both created the world and lived in the world. When I improvise the second half of the Second Main Character’s chapter, I do so with passion for the world I’ve made.
+
+
+
+
+
+
+
+
 [http://largeprimenumbers.com/novels/](http://largeprimenumbers.com/novels/) 
 
 [LARGE PRIME NUMBERS](http://largeprimenumbers.com/)
