@@ -7,7 +7,7 @@
 Today I got to see how strong this manufacturer of Adderall I picked up yesterday, rebirthday, is. It’s not very. 
 
 Speaking of rebirthday. I missed a few points. 
-	Actually, reading through I missed so much I’m not even gonna make an addendum. Chugging a six pack of 16oz Coors is not a good way to spend a beautiful day. And it doesn’t fucking help me at all in anyway.
+- Actually, reading through I missed so much I’m not even gonna make an addendum. Chugging a six pack of 16oz Coors is not a good way to spend a beautiful day. And it doesn’t fucking help me at all in anyway.
 That’s sort of what you get when you do that. ‘You reap what you sow,’ sort of thing. 
 
 Today I obsessed over this digital garden website thing. It occured to me a few times that now would be a good time to learn to make a website, not just use that half-assed free markup-only website.
