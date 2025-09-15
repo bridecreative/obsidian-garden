@@ -3,6 +3,7 @@
 ---
 
 ## Above All: Ten Commandments
+### Plain English
 1. **Put God first** — Do not worship any other gods.
 2. **No idols** — Do not make or bow down to images or statues to worship them.
 3. **Honor God’s name** — Do not use God’s name in a wrong or disrespectful way.
@@ -13,6 +14,9 @@
 8. **Do not steal** — Do not take what is not yours.
 9. **Speak truthfully** — Do not lie or bear false witness against others.
 10. **Be content** — Do not covet or envy what belongs to your neighbor.
+
+
+### 
 
 ## The Virtues
 1. **Love (Agape)** 

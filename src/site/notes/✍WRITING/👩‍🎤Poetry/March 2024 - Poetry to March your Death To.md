@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/writing/poetry/march-2024-poetry-to-march-your-death-to/","tags":["Poetry"]}
 ---
 
+[[✍WRITING/👩‍🎤Poetry/April 2024 - Death March Ends, April is Healing\|April 2024 - Death March Ends, April is Healing]]
 
 Your light came to visit my sleep   
 I felt it at my back,   

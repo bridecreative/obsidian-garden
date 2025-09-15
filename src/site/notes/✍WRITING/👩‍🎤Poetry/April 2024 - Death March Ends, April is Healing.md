@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/writing/poetry/april-2024-death-march-ends-april-is-healing/","tags":["Poetry"]}
 ---
 
+[[✍WRITING/👩‍🎤Poetry/May 2024 - a bloody April, hope for May - amen.\|May 2024 - a bloody April, hope for May - amen.]]
+
 
 for You, dissociative one  
 who brought me at Great Distance   
