@@ -9,7 +9,6 @@ Contractionss you normally use in texts. Gonna.
 African-American type talk. 
 - No cap. 
 - Deadass. 
-- That’s all fine.
 
 Keep saying your west coast shit, though 
 - try to cut shit out like 
@@ -36,5 +35,5 @@ ATE UP - Excelled at something
 BASssED (great)
 
 Don't stress it (in place of don't worry)
-It’s chill 
+It’s all fine
 

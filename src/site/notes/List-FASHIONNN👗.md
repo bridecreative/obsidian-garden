@@ -29,17 +29,18 @@
 
 - - -
 
-**NOTES:**
-SHOP AT ROSS MORE FRFR
-Get shirts at five below. Their super cute and cheap.
-Walmart is actually fine for a lot of things. Go figure.
-You are done with blue jeans. (Outside work)
-
 
 **RULE 0: Use Spring Color Pallet** 
 ![true-spring-color-palette-copy.jpg](/img/user/Z-Images/true-spring-color-palette-copy.jpg)
 
 - - -
+
+
+**NOTES:**
+- SHOP AT ROSS MORE FRFR
+- Get shirts at five below. Their super cute and cheap.
+- Walmart is actually fine for a lot of things. Go figure.
+- You are done with blue jeans. (Outside work)
 
 
 1. Ross socks! 
@@ -51,24 +52,25 @@ You are done with blue jeans. (Outside work)
 	1. Leggings = very ~~possible~~ likely bulge…
 6. Lululemon is sick but so are sleeping shorts from Walmart... 
 	1. Chew on that. 
-7. 
-8. 
-9. [How lucky are we hat](https://www.altardstate.com/as/sale/sale-accessories/how-lucky-are-we-camo-trucker-hat/001796_LCAP5090-0318.html)
+7. [How lucky are we hat](https://www.altardstate.com/as/sale/sale-accessories/how-lucky-are-we-camo-trucker-hat/001796_LCAP5090-0318.html)
 	1. #Research cute hats
 	2. Hats of brands I actually love
-10. *Get the best trainers out there.* #Research Doesn't matter if their ugly.
-		1. For road running: [Nike Pegasus](https://www.nike.com/t/pegasus-41-mens-road-running-shoes-LMhfRGdO/FD2722-801) from [RunRepeat](https://runrepeat.com/guides/best-road-running-shoes) for daily trainer.
-11. *Street shoes*
+8. *Get the best trainers out there.* #Research Doesn't matter if their ugly.
+		1. For road running: [Nike Pegasus](https://www.nike.com/t/pegasus-41-mens-road-running-shoes-LMhfRGdO/FD2722-801) says [RunRepeat](https://runrepeat.com/guides/best-road-running-shoes) for daily trainer.
+9. *Street shoes*
 	1. Converse
 	2. Nike Air Force
-12. 
+	3. actually-sick New Balances
+10. 
+
 
 **Workout clothes** 
 1. Old Navy matching undies x2
 2. Another pair of shorts for running
+3. Spandex blend undies (Yours Kindly?)
 
 
-**Undies wish**
+**Wish**
 1. Calvin Klien cotton undies, bra and panties
 2. High waist long length boyfriend jeans
 3. 
