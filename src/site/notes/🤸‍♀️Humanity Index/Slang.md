@@ -4,6 +4,8 @@
 
 #HumanityIndex 
 
+With the quickness
+
 Choppin’ it up 
 Contractionss you normally use in texts. Gonna. 
 African-American type talk. 
