@@ -22,7 +22,7 @@
 [[6 - Main Notes/L's Voice Training\|L's Voice Training]]
 - *Use Voice app*
 Read This Aloud:
-- [[📃Constitution/Amendment 1 How to Find Magic\|Amendment 1 How to Find Magic]]
+- [[6 - Main Notes/Amendment 1 How to Find Magic\|Amendment 1 How to Find Magic]]
 - [[Slang\|Slang]]
 
 
@@ -31,7 +31,7 @@ Read This Aloud:
 ### Sunset:
 Go to gym [[6 - Main Notes/🏋🏼‍♀️GYM\|🏋🏼‍♀️GYM]]
 OR;
-[[6 - Main Notes/🏃‍♀️Run Plan\|🏃‍♀️Run Plan]]
+[[6 - Main Notes/🏃‍♀️Running\|🏃‍♀️Running]]
 
 
 ==**Work on**==
