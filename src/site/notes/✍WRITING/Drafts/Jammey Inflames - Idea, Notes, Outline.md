@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/writing/drafts/jammey-inflames-idea-notes-outline/","tags":["Writing/Mythos"]}
+{"dg-publish":true,"permalink":"/writing/drafts/jammey-inflames-idea-notes-outline/","tags":["Import"]}
 ---
 
-[[✍WRITING/Drafts/Jammey Inflames, Drafts\|Jammey Inflames, Drafts]]
+[[✍WRITING/New Alaska/FROM GDOCS/Jammey Inflames, Drafts\|Jammey Inflames, Drafts]]
 
 # Table of Contents 
 ```table-of-contents

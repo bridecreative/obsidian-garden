@@ -4,7 +4,6 @@
 
 
 
-
 1. You do have dysphoria \- and it's that you aren't womanly at all now. It's dead wrong. Your voice isn't which you can work on in not too long.. BUT YOU ARE WOMANLY. Proof is you've got tits as big as your sisters, your mom said that to Kiley. Not a compliment for you, info for her.   
 2. My sister's matter to me. A lot. Maybe text Kiley about Marissa.   
 3. Be more present. Period. Be here and now and see, don't look.   
@@ -22,3 +21,9 @@
 12. You  need to use sincerity like a blade in the situation  cut through it   
 13. Be careful of your back. 
 
+- - -
+TAGS:
+- 
+
+
+[[⚕️Medical/Drugs/Trip Jul 10\|Trip Jul 10]]

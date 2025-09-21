@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/drafts/paris-of-battlefield-drafts-version-2-0/","tags":["Writing/Drafts"]}
+{"dg-publish":true,"permalink":"/writing/drafts/paris-of-battlefield-drafts-version-2-0/","tags":["Import"]}
 ---
 
 
