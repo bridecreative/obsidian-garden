@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/6-main-notes/jammey-inflames-idea-notes-outline/","tags":["Import"]}
 ---
 
-[[✍WRITING/New Alaska/FROM GDOCS/Jammey Inflames, Drafts\|Jammey Inflames, Drafts]]
+[[6 - Main Notes/Jammey Inflames, Drafts\|Jammey Inflames, Drafts]]
 
 # Table of Contents 
 ```table-of-contents

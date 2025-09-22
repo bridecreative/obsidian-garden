@@ -23,7 +23,7 @@
 - *Use Voice app*
 Read This Aloud:
 - [[6 - Main Notes/Amendment 1 How to Find Magic\|Amendment 1 How to Find Magic]]
-- [[Slang\|Slang]]
+- [[6 - Main Notes/Slang\|Slang]]
 
 
 ***Listen to music more!***

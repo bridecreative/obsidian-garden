@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/2-sources/hamlet-video-notes/"}
 ---
 
-[[Sources\|Sources]], [[3 - Tags/Learning\|Learning]], 
+[[6 - Main Notes/Sources\|Sources]], [[3 - Tags/Learning\|Learning]], 
 
 ![Andrew Scott’s Performance](https://www.youtube.com/watch?v=AR28oIFTzNY)
 
