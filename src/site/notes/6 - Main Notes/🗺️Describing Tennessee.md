@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/describing-tennessee/","tags":["HumanityIndex"]}
+{"dg-publish":true,"permalink":"/6-main-notes/describing-tennessee/","tags":["HumanityIndex","Writing"]}
 ---
 
 

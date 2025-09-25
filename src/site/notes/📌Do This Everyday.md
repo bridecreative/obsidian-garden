@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/do-this-everyday/"}
 ---
 
-
+TAGS: 
 
 - - -
 
@@ -14,10 +14,11 @@
 1. ==*Apply to One (1) Job/day [[6 - Main Notes/Jobs to Apply to\|Jobs to Apply to]]*==
 2. Write 250 Words/day
 3. Read Book 30min/day
-4. Study One Page of Bible/day
+
 
 [[1 - Rough Notes/Teach Hades\|Teach Hades]]
 	 ==Every time you get Hades attention, say his name, ‘Hades!’==
+
 
 [[6 - Main Notes/L's Voice Training\|L's Voice Training]]
 - *Use Voice app*

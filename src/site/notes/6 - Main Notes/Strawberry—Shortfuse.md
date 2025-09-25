@@ -3,6 +3,8 @@
 ---
 
 #Import  
+[[6 - Main Notes/Strawberry Shortfuse, Ideas, World, Etc.\|Strawberry Shortfuse, Ideas, World, Etc.]]
+
 
 # `Strawberry—Shortfuse`
 

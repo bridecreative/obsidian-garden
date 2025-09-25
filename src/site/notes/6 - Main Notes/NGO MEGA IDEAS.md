@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/6-main-notes/ngo-mega-ideas/"}
 ---
 
-[[6 - Main Notes/NGO for Transgenders\|NGO for Transgenders]], [[🚉Ikigai (Your place in the Universe)/What the world needs\|What the world needs]] 
+[[6 - Main Notes/NGO for Transgenders\|NGO for Transgenders]], [[Ikigai🚉 (Your place in the Universe)/What the world needs\|What the world needs]] 
 
 
 NAME: 

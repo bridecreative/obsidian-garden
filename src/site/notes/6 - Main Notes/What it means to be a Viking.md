@@ -24,6 +24,9 @@ They feared no danger and loved nothing more than to stare death in the face and
 
 
 
+Relevant:
+[[6 - Main Notes/Pegan VS Christian World View\|Pegan VS Christian World View]]
+
 
 
 

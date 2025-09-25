@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/2-sources/hamlet-video-notes/"}
 ---
 
-[[6 - Main Notes/Sources\|Sources]], [[3 - Tags/Learning\|Learning]], 
+[[3 - Tags/Sources\|Sources]], [[3 - Tags/Learning\|Learning]], 
+
+[[8 - Writing Projects/Hollis Novel Connecter\|Hollis Novel Connecter]]
 
 ![Andrew Scott’s Performance](https://www.youtube.com/watch?v=AR28oIFTzNY)
 

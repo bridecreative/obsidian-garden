@@ -2,25 +2,7 @@
 {"dg-publish":true,"permalink":"/6-main-notes/slang/"}
 ---
 
-#HumanityIndex  [[3 - Tags/ReadEveryday\|ReadEveryday]]
-
-
-With the quickness
-
-Choppin’ it up 
-Contractionss you normally use in texts. Gonna. 
-African-American type talk. 
-- No cap. 
-- Deadass. 
-
-Keep saying your west coast shit, though 
-- try to cut shit out like 
-- hella
-
-
-
-Blessss
-
+#HumanityIndex 
 
 NEW 
 “Period” 
@@ -39,4 +21,19 @@ BASssED (great)
 
 Don't stress it (in place of don't worry)
 It’s all fine
+
+With the quickness
+
+Choppin’ it up 
+Contractions you normally use in texts. Gonna. 
+African-American type talk. 
+- No cap. 
+- Deadass. 
+
+Keep saying your west coast shit, though 
+- try to cut shit out like 
+- hella
+
+
+
 

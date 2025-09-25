@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/manipulator-rulebook/","tags":["HumanityIndex"]}
+{"dg-publish":true,"permalink":"/6-main-notes/manipulator-rulebook/"}
 ---
 
+[[3 - Tags/Adulting\|Adulting]]
 
 ```table-of-contents
 ```

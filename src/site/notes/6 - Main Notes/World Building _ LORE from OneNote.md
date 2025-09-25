@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/6-main-notes/world-building-lore-from-one-note/"}
 ---
 
-#Writing #Import 
+#Writing 
 
 World Building \\ LORE   
 Sunday, December 24, 2023  
