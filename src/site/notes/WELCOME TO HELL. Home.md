@@ -27,12 +27,19 @@
 
 - - -
 
+[[6 - Main Notes/2024 Months Sorted Poetry Link\|2024 Months Sorted Poetry Link]]
+[[6 - Main Notes/Mushrooms\|Mushrooms]]
+
+
+- - -
+
 
 I’m barely human
 I need help
 - [[3 - Tags/HumanityIndex\|HumanityIndex]]
 	- [[6 - Main Notes/💯Slang\|💯Slang]] 
 	- [[6 - Main Notes/🗺️Describing Tennessee\|🗺️Describing Tennessee]]
+	- [[6 - Main Notes/🖋️Tattoo and Piercing Ideas\|🖋️Tattoo and Piercing Ideas]]
 
 
 
