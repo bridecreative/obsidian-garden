@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/8-writing-projects/articles/scars-were-the-point/"}
 ---
 
-[[Article\|Article]]
+[[3 - Tags/Article\|Article]]
 
 
 - Self harm scars were proof I had ever been in such pain. 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/6-main-notes/haruki-why-not-to-read-windup-bird/"}
 ---
 
-[[Article\|Article]]
+[[3 - Tags/Article\|Article]]
 
 Being an artist is three phases. 
 

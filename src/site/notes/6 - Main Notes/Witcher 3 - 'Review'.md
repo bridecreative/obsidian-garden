@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/6-main-notes/witcher-3-review/"}
 ---
 
-[[Article\|Article]]
+[[3 - Tags/Article\|Article]]
 
 I’ve played a lot of games… but I’ve also written a lot of stuff. Articles, think pieces, advice, and so much bad fiction it’d make your head spin. I’ve written three novels and started so many others (some of which are actually good) it’d take days to try to count the total. 
 

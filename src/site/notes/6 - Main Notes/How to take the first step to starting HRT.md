@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/6-main-notes/how-to-take-the-first-step-to-starting-hrt/"}
 ---
 
-[[Article\|Article]]
+[[3 - Tags/Article\|Article]]
 
 
 The first step to HRT is the hardest step of your journey. And it’s the easiest. I’m not gonna drag this out—the first step is courage. It’s also the last. Courage is the sweet spot between intellect and strength. Yes, Zelda taught you this without knowing. 

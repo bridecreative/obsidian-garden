@@ -15,17 +15,17 @@
 
 - - -
 
+
 [[📌Do This Everyday\|📌Do This Everyday]]
 [[🍺REASONS TO STAY SOBER\|🍺REASONS TO STAY SOBER]]
 [[6 - Main Notes/🏃‍♀️RUNNING\|🏃‍♀️RUNNING]]
 [[3 - Tags/Writing\|Writing]]
 - [[8 - Writing Projects/Hollis Novel Connecter\|Hollis Novel Connecter]]
-[[Article\|Article]]
+[[3 - Tags/Article\|Article]]
 - [[6 - Main Notes/Haruki, Why Not to Read Windup Bird\|Haruki, Why Not to Read Windup Bird]]
 - [[6 - Main Notes/Witcher 3 - 'Review'\|Witcher 3 - 'Review']]
 
-
-
+- - -
 
 
 I’m barely human
