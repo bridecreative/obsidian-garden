@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/6-main-notes/tattoo-and-piercing-ideas/","tags":["HumanityIndex"]}
 ---
 
+[[3 - Tags/HumanityIndex\|HumanityIndex]]
+
+
 ## Written
 
 Font Ideas: 
@@ -17,6 +20,11 @@ OREGON REVERSE: Like that picture from chainsaw man with the astronauts in the g
 
 The favorite flowers or my limerent loves. Roses, sunflowers, wildflowers and babies breath. 
 	Maybe the babies breath (and even wild flowers) is falling from the rest of the bouquets? It is normally a filler for other flower arrangements. 
+
+
+but my desire and will were moved already — like a wheel revolving uniformly — by the Love that moves the sun and the other stars.
+	on space of neck where I get kisses
+
 
 
 

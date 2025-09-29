@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/6-main-notes/list-food-shopping/","tags":["HumanityIndex"]}
 ---
 
-z`[[6 - Main Notes/🥅Goals\|🥅Goals]], [[6 - Main Notes/List-Wish🚀\|List-Wish🚀]],
-
+[[6 - Main Notes/List-Shopping🛒\|List-Shopping🛒]]
 
 **Goal: 12 articles of each piece of clothing**
 

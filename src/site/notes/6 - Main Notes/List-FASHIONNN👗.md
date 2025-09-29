@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/6-main-notes/list-fashionnn/","tags":["HumanityIndex"]}
 ---
 
-[[6 - Main Notes/🥅Goals\|🥅Goals]], [[6 - Main Notes/List-Wish🚀\|List-Wish🚀]],
+[[3 - Tags/Goals\|Goals]], [[6 - Main Notes/List-Wish🚀\|List-Wish🚀]],
 
 
 **Goal: 12 articles of each piece of clothing**
@@ -19,7 +19,7 @@
 3. Carhartt jacket 
 	1. Type?
 	2. Or maybe *save up some more for Alpha Industries Nylon bomber jacket*? 
-		1. DEFINTELY more unique
+		1. DEFINITELY more unique
 4. 
 
 

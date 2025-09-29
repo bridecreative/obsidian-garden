@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/6-main-notes/when-to-order-your-hrt-online/","tags":["Article"]}
 ---
 
+[[Article\|Article]]
+
 
 
 It would suck if my Doc ever found this article. I’ll cover my ass real quick: I have never ordered HRT online. I would never. 

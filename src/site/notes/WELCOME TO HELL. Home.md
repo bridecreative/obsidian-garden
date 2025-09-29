@@ -14,8 +14,10 @@
 ### [Last.FM](https://www.last.fm/user/AnIntenseAugust)
 
 - - -
-
-
+I’m barely human
+- I need help
+- [[6 - Main Notes/💯Slang\|💯Slang]] 
+- 
 
 
 

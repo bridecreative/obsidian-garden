@@ -5,6 +5,10 @@
 [[3 - Tags/PredictiveHistory\|PredictiveHistory]], [[3 - Tags/Christianity\|Christianity]]
 
 
+RELEVANT: 
+[[8 - Writing Projects/Hollis Novel Connecter\|Hollis Novel Connecter]]
+
+
 Where do we come from ,where do we go, where do we end. This is the questions of every man and it is the goal of every religion to answer these three questions.
 
 Wealth is unimportant, status is too, giving meaningful gifts means more so you spend wealth on a feast. This was normal in basically every culture until… pretty recently, really. The world globalized, in a word.
@@ -25,7 +29,7 @@ They feared no danger and loved nothing more than to stare death in the face and
 
 
 Relevant:
-[[6 - Main Notes/Pegan VS Christian World View\|Pegan VS Christian World View]]
+[[6 - Main Notes/Pagan VS Christian World View\|Pagan VS Christian World View]]
 
 
 
