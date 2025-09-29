@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/6-main-notes/slang/"}
 ---
 
-#HumanityIndex 
+[[3 - Tags/HumanityIndex\|HumanityIndex]]
 
 NEW 
 “Period” 

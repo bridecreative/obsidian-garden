@@ -43,5 +43,3 @@ If you have to have more than a low dose to help, that’s fine. If you live in 
 
 
 
-
-#Article

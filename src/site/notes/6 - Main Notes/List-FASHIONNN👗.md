@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/list-fashionnn/","tags":["HumanityIndex"]}
+{"dg-publish":true,"permalink":"/6-main-notes/list-fashionnn/"}
 ---
 
-[[3 - Tags/Goals\|Goals]], [[6 - Main Notes/List-Wish🚀\|List-Wish🚀]],
+[[3 - Tags/Goals\|Goals]], [[6 - Main Notes/List-Wish🚀\|List-Wish🚀]], [[6 - Main Notes/List-DECOR🛋️\|List-DECOR🛋️]] [[3 - Tags/HumanityIndex\|HumanityIndex]]
 
 
 **Goal: 12 articles of each piece of clothing**

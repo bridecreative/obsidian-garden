@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/6-main-notes/list-wish/"}
 ---
 
-[[3 - Tags/ThingsYouWant 1\|ThingsYouWant 1]], [[3 - Tags/Goals\|Goals]]
+[[3 - Tags/ThingsYouWant\|ThingsYouWant]], [[3 - Tags/Goals\|Goals]]
 
 
 [[6 - Main Notes/List-FASHIONNN👗\|List-FASHIONNN👗]]

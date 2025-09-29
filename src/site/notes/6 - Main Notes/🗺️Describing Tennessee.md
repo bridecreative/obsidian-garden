@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/describing-tennessee/","tags":["HumanityIndex","Writing"]}
+{"dg-publish":true,"permalink":"/6-main-notes/describing-tennessee/"}
 ---
 
+[[3 - Tags/HumanityIndex\|HumanityIndex]], [[3 - Tags/Writing\|Writing]], 
 
 ```table-of-contents
 ```

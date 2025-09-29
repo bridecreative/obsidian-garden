@@ -5,11 +5,9 @@
 TAGS: [[8 - Writing Projects/Hollis Novel Connecter\|Hollis Novel Connecter]]
 
 RELEVANT:
-[[2 - Sources/Notes on Writing a Novel by Tim Rogers\|Notes on Writing a Novel by Tim Rogers]]
-
-[[👧Names\|👧Names]], 
-
-[[2 - Sources/Hamlet (Video) Notes\|Hamlet (Video) Notes]]
+[[2 - Sources/Notes on Writing a Novel by Tim Rogers\|Notes on Writing a Novel by Tim Rogers]],
+[[👧Names\|👧Names]],
+[[2 - Sources/Hamlet (Video) Notes\|Hamlet (Video) Notes]], 
 
 
 
