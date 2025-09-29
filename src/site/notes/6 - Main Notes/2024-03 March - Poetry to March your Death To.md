@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/6-main-notes/2024-03-march-poetry-to-march-your-death-to/"}
 ---
 
-[[Poetry\|Poetry]]
+[[3 - Tags/Poetry\|Poetry]]
 
 [[6 - Main Notes/2024-04 April - Death March Ends, April is Healing\|2024-04 April - Death March Ends, April is Healing]]
 

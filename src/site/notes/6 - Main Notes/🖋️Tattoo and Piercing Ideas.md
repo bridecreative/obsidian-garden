@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/tattoo-and-piercing-ideas/","tags":["HumanityIndex"]}
+{"dg-publish":true,"permalink":"/6-main-notes/tattoo-and-piercing-ideas/"}
 ---
 
 [[3 - Tags/HumanityIndex\|HumanityIndex]]
-
 
 ## Written
 

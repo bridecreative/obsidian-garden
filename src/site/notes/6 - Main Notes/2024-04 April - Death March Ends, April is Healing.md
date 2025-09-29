@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/6-main-notes/2024-04-april-death-march-ends-april-is-healing/","tags":["Poetry"]}
 ---
 
-[[Poetry\|Poetry]]
+[[3 - Tags/Poetry\|Poetry]]
 
 [[6 - Main Notes/2024-05 May - a bloody April, hope for May - amen.\|2024-05 May - a bloody April, hope for May - amen.]]
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/6-main-notes/world-building-lore-from-one-note/"}
 ---
 
-[[Writing\|Writing]],
+[[3 - Tags/Writing\|Writing]],
 
 [[👧Names\|👧Names]]
 

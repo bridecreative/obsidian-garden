@@ -14,10 +14,18 @@
 ### [Last.FM](https://www.last.fm/user/AnIntenseAugust)
 
 - - -
+
+[[📌Do This Everyday\|📌Do This Everyday]]
+[[8 - Writing Projects/Hollis Novel Connecter\|Hollis Novel Connecter]]
+
+
+
+
+
 I’m barely human
-- I need help
-- [[6 - Main Notes/💯Slang\|💯Slang]] 
-- 
+I need help
+- [[3 - Tags/HumanityIndex\|HumanityIndex]]
+	- [[6 - Main Notes/💯Slang\|💯Slang]] 
 
 
 

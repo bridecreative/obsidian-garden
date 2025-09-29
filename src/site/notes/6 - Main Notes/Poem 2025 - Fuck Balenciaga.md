@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/6-main-notes/poem-2025-fuck-balenciaga/"}
 ---
 
-[[Poetry\|Poetry]],
+[[3 - Tags/Poetry\|Poetry]],
 
 [[6 - Main Notes/2025-08 August is Hot but Unemployment is Hell\|2025-08 August is Hot but Unemployment is Hell]]
 

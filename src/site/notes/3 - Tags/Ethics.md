@@ -9,5 +9,5 @@
 [[6 - Main Notes/Christian Ethics\|Christian Ethics]]
 [[6 - Main Notes/Christian Virtue Ethics\|Christian Virtue Ethics]]
 
-[[Ethics - Chapter 1 -The Beginning\|Ethics - Chapter 1 -The Beginning]]
+[[6 - Main Notes/Ethics - Chapter 1 -The Beginning\|Ethics - Chapter 1 -The Beginning]]
 

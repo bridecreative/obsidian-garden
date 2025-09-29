@@ -16,7 +16,7 @@ Give Brook some room…
 3. Read Book 30min/day
 4. Read [[6 - Main Notes/L's Voice Training\|L's Voice Training]] 
 5. Read [[6 - Main Notes/💯Slang\|💯Slang]] 
-6. [[6 - Main Notes/🏃‍♀️RUNNING\|🏃‍♀️RUNNING]] / [[Running Schedule\|Running Schedule]]
+6. [[6 - Main Notes/🏃‍♀️RUNNING\|🏃‍♀️RUNNING]] / [[6 - Main Notes/Running Schedule\|Running Schedule]]
 
 
 ## Immediate Goals

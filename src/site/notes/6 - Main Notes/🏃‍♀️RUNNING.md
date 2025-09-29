@@ -8,7 +8,7 @@ RELEVANT
 Relevant
 [[6 - Main Notes/🏋🏼‍♀️GYM\|🏋🏼‍♀️GYM]]
 [[📌Do This Everyday\|📌Do This Everyday]]
-[[Running Schedule\|Running Schedule]]
+[[6 - Main Notes/Running Schedule\|Running Schedule]]
 
 
 ```table-of-contents

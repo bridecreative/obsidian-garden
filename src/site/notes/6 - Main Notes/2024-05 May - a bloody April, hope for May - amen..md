@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/6-main-notes/2024-05-may-a-bloody-april-hope-for-may-amen/","tags":["Poetry"]}
 ---
 
-[[Poetry\|Poetry]]
+[[3 - Tags/Poetry\|Poetry]]
 
 [[6 - Main Notes/2024 Months Sorted Poetry Link\|2024 Months Sorted Poetry Link]]
 
