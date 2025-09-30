@@ -16,7 +16,7 @@ RELEVANT:
 
 
 ## Values
-From [[8 - Writing Projects/New Alaska Mythos, Hollis Notes\|New Alaska Mythos, Hollis Notes]]
+From [[8 - Writing Projects/New Alaska Mythos\|New Alaska Mythos]]
 
 1\. Intuition
     1\. Instead of logic, they value being able to sense the direction of things. Gut instinct. 

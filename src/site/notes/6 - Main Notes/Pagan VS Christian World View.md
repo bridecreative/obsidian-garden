@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/6-main-notes/pagan-vs-christian-world-view/"}
 ---
 
-[[3 - Tags/PredictiveHistory\|PredictiveHistory]], [[3 - Tags/Christianity\|Christianity]], 
+[[3 - Tags/ProfessorJX\|ProfessorJX]], [[3 - Tags/Christianity\|Christianity]], 
 
 [[8 - Writing Projects/Hollis Novel Connecter\|Hollis Novel Connecter]]
 

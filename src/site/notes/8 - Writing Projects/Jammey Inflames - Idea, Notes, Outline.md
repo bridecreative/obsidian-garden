@@ -3,7 +3,7 @@
 ---
 
 [[8 - Writing Projects/Jammey Inflames, Drafts\|Jammey Inflames, Drafts]]
-[[8 - Writing Projects/New Alaska Mythos, Hollis Notes\|New Alaska Mythos, Hollis Notes]]
+[[8 - Writing Projects/New Alaska Mythos\|New Alaska Mythos]]
 
 # Table of Contents 
 ```table-of-contents
