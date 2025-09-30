@@ -3,13 +3,14 @@
 ---
 
 ## Schedule
-
 [Source for plan](https://www.halhigdon.com/training-programs/5k-training/intermediate-5k/) 
 
 1. ALWAYS STRETCH BEFORE AND AFTER WORKOUTS 
-	1. #Research Best stretching routine
-2. Quick rinse off after run, shave during that time.
-3. Best way to shave, #Research  [[6 - Main Notes/List-Shopping🛒\|List-Shopping🛒]]
+	1. #Research Best stretching routine [[3 - Tags/WorkingOn\|WorkingOn]]
+2. Quick rinse off after run, shave face during that time.
+	1. Best way to shave,  [[6 - Main Notes/List-Shopping🛒\|List-Shopping🛒]] 
+		1. Traditional shaving cream with bristle brush, soap bar. Try to get a all in one set.
+	2. ASIDE: How to best shave legs. #Research 
 
   
 

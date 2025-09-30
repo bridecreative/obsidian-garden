@@ -15,7 +15,6 @@
 
 - - -
 
-
 [[🍺REASONS TO STAY SOBER\|🍺REASONS TO STAY SOBER]]
 [[6 - Main Notes/🏃‍♀️RUNNING\|🏃‍♀️RUNNING]]
 
@@ -23,12 +22,16 @@ Writing
 - [[8 - Writing Projects/Hollis Novel Connecter\|Hollis Novel Connecter]]
 
 Articles
-- [[6 - Main Notes/Haruki, Why Not to Read Windup Bird\|Haruki, Why Not to Read Windup Bird]]
-- [[6 - Main Notes/Witcher 3 - 'Review'\|Witcher 3 - 'Review']]
+- [[8 - Writing Projects/Articles/Haruki, Why Not to Read Windup Bird\|Haruki, Why Not to Read Windup Bird]]
+- [[8 - Writing Projects/Articles/Witcher 3 - 'Review'\|Witcher 3 - 'Review']]
+	- [[8 - Writing Projects/Articles/The problem with being someone\|The problem with being someone]]
+	- [[8 - Writing Projects/Articles/Scars were the point\|Scars were the point]]
 
 - - -
 
+Other
 [[6 - Main Notes/2024 Months Sorted Poetry Link\|2024 Months Sorted Poetry Link]]
+[[8 - Writing Projects/Poetry/2025 Months Sorted Poetry Link\|2025 Months Sorted Poetry Link]]
 [[6 - Main Notes/Mushrooms\|Mushrooms]]
 
 
@@ -37,10 +40,13 @@ Articles
 
 I’m barely human
 I need help
-- How to be human - Index
+
+How to be human - Index
 	- [[6 - Main Notes/💯Slang\|💯Slang]] 
 	- [[6 - Main Notes/🗺️Describing Tennessee\|🗺️Describing Tennessee]]
 	- [[6 - Main Notes/🖋️Tattoo and Piercing Ideas\|🖋️Tattoo and Piercing Ideas]]
+
+
 
 
 

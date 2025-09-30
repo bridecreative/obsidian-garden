@@ -4,6 +4,8 @@
 
 [[3 - Tags/PersonalPhilosophy\|PersonalPhilosophy]], 
 
+
+
 ## The Story:
 (How I got to my answer)
 	I spent some time at Lowe’s, watering flowers, sometimes thinking but mostly actually thoughtless. 

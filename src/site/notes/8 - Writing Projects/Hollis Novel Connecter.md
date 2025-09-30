@@ -12,3 +12,4 @@
 [[8 - Writing Projects/Jammey Inflames, Drafts\|Jammey Inflames, Drafts]] 
 [[8 - Writing Projects/Jammey Inflames - Idea, Notes, Outline\|Jammey Inflames - Idea, Notes, Outline]] 
 
+[[8 - Writing Projects/Future Tech\|Future Tech]]

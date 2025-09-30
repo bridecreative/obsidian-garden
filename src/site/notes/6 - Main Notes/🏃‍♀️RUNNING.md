@@ -9,7 +9,7 @@ Relevant
 [[6 - Main Notes/🏋🏼‍♀️GYM\|🏋🏼‍♀️GYM]]
 [[📌Do This Everyday\|📌Do This Everyday]]
 [[6 - Main Notes/Running Schedule\|Running Schedule]]
-[[Running Weightlifting\|Running Weightlifting]]
+[[6 - Main Notes/Running & Weightlifting Sets\|Running & Weightlifting Sets]]
 
 
 ```table-of-contents
