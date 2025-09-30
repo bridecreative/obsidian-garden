@@ -16,12 +16,13 @@
 - - -
 
 
-[[📌Do This Everyday\|📌Do This Everyday]]
 [[🍺REASONS TO STAY SOBER\|🍺REASONS TO STAY SOBER]]
 [[6 - Main Notes/🏃‍♀️RUNNING\|🏃‍♀️RUNNING]]
-[[3 - Tags/Writing\|Writing]]
+
+Writing
 - [[8 - Writing Projects/Hollis Novel Connecter\|Hollis Novel Connecter]]
-[[3 - Tags/Article\|Article]]
+
+Articles
 - [[6 - Main Notes/Haruki, Why Not to Read Windup Bird\|Haruki, Why Not to Read Windup Bird]]
 - [[6 - Main Notes/Witcher 3 - 'Review'\|Witcher 3 - 'Review']]
 
@@ -36,7 +37,7 @@
 
 I’m barely human
 I need help
-- [[3 - Tags/HumanityIndex\|HumanityIndex]]
+- How to be human - Index
 	- [[6 - Main Notes/💯Slang\|💯Slang]] 
 	- [[6 - Main Notes/🗺️Describing Tennessee\|🗺️Describing Tennessee]]
 	- [[6 - Main Notes/🖋️Tattoo and Piercing Ideas\|🖋️Tattoo and Piercing Ideas]]

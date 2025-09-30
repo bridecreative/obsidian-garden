@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/2024-05-may-a-bloody-april-hope-for-may-amen/","tags":["Poetry"]}
+{"dg-publish":true,"permalink":"/6-main-notes/2024-05-may-a-bloody-april-hope-for-may-amen/"}
 ---
 
 [[3 - Tags/Poetry\|Poetry]]

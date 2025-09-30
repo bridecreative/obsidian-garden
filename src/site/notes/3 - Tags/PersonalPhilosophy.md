@@ -3,3 +3,5 @@
 ---
 
 [[Consciousness\|Consciousness]]  
+
+This is my personal belief system mapped out

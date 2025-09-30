@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/6-main-notes/dreamlog-ames-other-lifes/"}
 ---
 
-[[6 - Main Notes/Dreamlog, Totality\|Dreamlog, Totality]] #Poetry 
+[[6 - Main Notes/Dreamlog, Totality\|Dreamlog, Totality]] [[3 - Tags/Poetry\|Poetry]]
 
 
 This was the first dream I wrote down. It is… one of my favorite things I have ever written, easily. I woke up and wrote this more or less as you see. I altered it a bit later, and this is the product. Whatever the condition I wrote this in, I love it.

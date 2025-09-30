@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/when-to-order-your-hrt-online/","tags":["Article"]}
+{"dg-publish":true,"permalink":"/6-main-notes/when-to-order-your-hrt-online/"}
 ---
 
 [[3 - Tags/Article\|Article]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/2024-04-april-death-march-ends-april-is-healing/","tags":["Poetry"]}
+{"dg-publish":true,"permalink":"/6-main-notes/2024-04-april-death-march-ends-april-is-healing/"}
 ---
 
 [[3 - Tags/Poetry\|Poetry]]

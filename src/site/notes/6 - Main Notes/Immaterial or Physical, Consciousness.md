@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/6-main-notes/immaterial-or-physical-consciousness/"}
 ---
 
-[[3 - Tags/PersonalPhilosophy\|PersonalPhilosophy]], [[3 - Tags/Ethics\|Ethics]]
+[[3 - Tags/PersonalPhilosophy\|PersonalPhilosophy]], 
 
 ## The Story:
 (How I got to my answer)
