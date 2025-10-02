@@ -19,19 +19,19 @@
 [[6 - Main Notes/🏃‍♀️RUNNING\|🏃‍♀️RUNNING]]
 
 Writing
-- [[8 - Writing Projects/Hollis Novel Connecter\|Hollis Novel Connecter]]
+- [[8 - Writing/Hollis of the Mountains Connecter\|Hollis of the Mountains Connecter]]
 
 Articles
-- [[8 - Writing Projects/Articles/Haruki, Why Not to Read Windup Bird\|Haruki, Why Not to Read Windup Bird]]
-- [[8 - Writing Projects/Articles/Witcher 3 - 'Review'\|Witcher 3 - 'Review']]
-	- [[8 - Writing Projects/Articles/The problem with being someone\|The problem with being someone]]
-	- [[8 - Writing Projects/Articles/Scars were the point\|Scars were the point]]
+- [[8 - Writing/Articles/Haruki, Why Not to Read Windup Bird\|Haruki, Why Not to Read Windup Bird]]
+- [[8 - Writing/Articles/Witcher 3 - 'Review'\|Witcher 3 - 'Review']]
+	- [[8 - Writing/Articles/The problem with being someone\|The problem with being someone]]
+	- [[8 - Writing/Articles/Scars were the point\|Scars were the point]]
 
 - - -
 
 Other
 [[6 - Main Notes/2024 Months Sorted Poetry Link\|2024 Months Sorted Poetry Link]]
-[[8 - Writing Projects/Poetry/2025 Months Sorted Poetry Link\|2025 Months Sorted Poetry Link]]
+[[8 - Writing/Poetry/2025 Months Sorted Poetry Link\|2025 Months Sorted Poetry Link]]
 [[6 - Main Notes/Mushrooms\|Mushrooms]]
 
 

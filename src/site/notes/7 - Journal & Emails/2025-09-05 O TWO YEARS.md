@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/7-journal-and-emails/2025-09-05-o-two-years/"}
 ---
 
+[[3 - Tags/EraActa\|EraActa]]
+
 NEW ME ANNIVERSARY. I’ve been on hormones for two years! Wow. 
 
 What insightful shit do I have to tell you (me)?

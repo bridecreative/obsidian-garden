@@ -4,7 +4,7 @@
 
 [[3 - Tags/Poetry\|Poetry]],
 
-[[8 - Writing Projects/Poetry/2025-08 August is Hot but Unemployment is Hell\|2025-08 August is Hot but Unemployment is Hell]]
+[[8 - Writing/Poetry/2025-08 August is Hot but Unemployment is Hell\|2025-08 August is Hot but Unemployment is Hell]]
 
 Fuck Balenciaga I'll kill you're ass in some reebok nanos
 

@@ -4,7 +4,7 @@
 
 [[3 - Tags/Sources\|Sources]], [[3 - Tags/Learning\|Learning]], 
 
-[[8 - Writing Projects/Hollis Novel Connecter\|Hollis Novel Connecter]]
+[[8 - Writing/Hollis of the Mountains Connecter\|Hollis of the Mountains Connecter]]
 
 ![Andrew Scott’s Performance](https://www.youtube.com/watch?v=AR28oIFTzNY)
 

@@ -6,7 +6,7 @@
 
 
 RELEVANT: 
-[[8 - Writing Projects/Hollis Novel Connecter\|Hollis Novel Connecter]]
+[[8 - Writing/Hollis of the Mountains Connecter\|Hollis of the Mountains Connecter]]
 
 
 Where do we come from ,where do we go, where do we end. This is the questions of every man and it is the goal of every religion to answer these three questions.
@@ -29,7 +29,7 @@ They feared no danger and loved nothing more than to stare death in the face and
 
 
 Relevant:
-[[6 - Main Notes/Pagan VS Christian World View\|Pagan VS Christian World View]]
+[[6 - Main Notes/Christian VS Pagan World View\|Christian VS Pagan World View]]
 
 
 

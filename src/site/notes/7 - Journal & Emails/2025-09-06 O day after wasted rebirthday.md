@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/7-journal-and-emails/2025-09-06-o-day-after-wasted-rebirthday/"}
 ---
 
+[[3 - Tags/EraActa\|EraActa]]
+
 [[7 - Journal & Emails/2025-09-05 O TWO YEARS\|2025-09-05 O TWO YEARS]]
 
 Today I got to see how strong this manufacturer of Adderall I picked up yesterday, rebirthday, is. It’s not very. 
