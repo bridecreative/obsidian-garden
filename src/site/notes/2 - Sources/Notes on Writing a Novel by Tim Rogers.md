@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/2-sources/notes-on-writing-a-novel-by-tim-rogers/"}
 ---
 
-[[3 - Tags/Writing\|Writing]]
+[[3 - Tags/Writing\|Writing]], [[3 - Tags/Sources\|Sources]]
 
 
 A novel is six chapters. There are approximately 75,000 words.

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/6-main-notes/personal-inventory-characteristics/"}
 ---
 
-[[3 - Tags/Writing\|Writing]],
+[[3 - Tags/Writing\|Writing]], [[3 - Tags/Psychology\|Psychology]]
 
 
 

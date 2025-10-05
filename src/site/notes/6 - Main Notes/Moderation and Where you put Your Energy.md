@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/6-main-notes/moderation-and-where-you-put-your-energy/"}
 ---
 
-[[3 - Tags/Adulting\|Adulting]]
+[[3 - Tags/Adulting\|Adulting]] #People/Syd 
 
 (Written to my mentor)
 

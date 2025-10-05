@@ -4,8 +4,7 @@
 
 TAGS: [[3 - Tags/Christianity\|Christianity]]
 
-RELEVANT:
-[[6 - Main Notes/Bible Questions\|Bible Questions]]
+RELEVANT: [[6 - Main Notes/Bible Questions\|Bible Questions]], [[6 - Main Notes/Bible Questions\|Bible Questions]]
 
 
 Samson fighting a lion barehanded - Old Testament 14:5-20

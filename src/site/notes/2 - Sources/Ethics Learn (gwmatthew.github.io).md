@@ -4,7 +4,7 @@
 
 https://gwmatthews.github.io/ethics/index.html
 
-TAGS: [[3 - Tags/Ethics\|Ethics]]
+TAGS: [[3 - Tags/Ethics\|Ethics]], [[3 - Tags/Sources\|Sources]]
 
 -   [Philosophical Ethics](https://gwmatthews.github.io/ethics/index.html)
 

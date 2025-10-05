@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/6-main-notes/amendment-1-how-to-find-magic/"}
 ---
 
-[[WhoAmI\|WhoAmI]]
+[[3 - Tags/WhoAmI\|WhoAmI]]
 
 
 ***You are more than the sum of your parts** like few things are, as all humans are. Sometimes you're not you, however. Sometimes, we lose our way and our purpose that used to flow like a mighty river stagnantes and your happiness becomes infested.* 

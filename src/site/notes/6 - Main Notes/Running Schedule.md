@@ -16,13 +16,13 @@
 
 Half of the 8 week Intermediate 5k running program.
 
-|     | Bath, Shave | Shower             | Shave        | Trash, Shower | Bath, Clean   | Shave body         | Shower    |
-| --- | ----------- | ------------------ | ------------ | ------------- | ------------- | ------------------ | --------- |
-|     | Sun         | Mon                | Tue          | Wed           | Thur          | Fri                | Sat       |
-| 1   | Church      | 3 mi run, Strength | 5 x 400m     | 3 mi run      | Bible.        | 3 mi run, Strength | 5 mi run  |
-| 2   | Church      | 3 mi run, Strength | 30 min tempo | 3 mi run      | Clean, Bible. | 3 mi run, Strength | 5 mi run  |
-| 3   | Church      | 3 mi run, Strength | 6 x 400      | 3 mi run      | Clean, Bible. | 4 mi run, Strength | 6 mi run  |
-| 4   | Church      | 3 mi run, Strength | 35 min tempo | 3 mi run      | Clean, Bible. | Double rest day    | *5k test* |
+|     | Bath   | Shower             | Shave        | Trash, Shower | Bath, Clean   | Shave body         | Shave     |
+| --- | ------ | ------------------ | ------------ | ------------- | ------------- | ------------------ | --------- |
+|     | Sun    | Mon                | Tue          | Wed           | Thur          | Fri                | Sat       |
+| 1   | Church | 3 mi run, Strength | 3 mi         | 4(?) x 400m   | Bible, bath   | 5 mi run           | Strength  |
+| 2   | Church | 3 mi run, Strength | 30 min tempo | 3 mi run      | Clean, Bible. | 3 mi run, Strength | 5 mi run  |
+| 3   | Church | 3 mi run, Strength | 6 x 400      | 3 mi run      | Clean, Bible. | 4 mi run, Strength | 6 mi run  |
+| 4   | Church | 3 mi run, Strength | 35 min tempo | 3 mi run      | Clean, Bible. | Double rest day    | *5k test* |
 
 
 

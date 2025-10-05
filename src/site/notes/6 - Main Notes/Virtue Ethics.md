@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/6-main-notes/virtue-ethics/"}
 ---
 
-
+[[3 - Tags/WorkingOn\|WorkingOn]]
 
 SOURCE 
 [[2 - Sources/Virtue ethics - Wikipedia\|Virtue ethics - Wikipedia]]

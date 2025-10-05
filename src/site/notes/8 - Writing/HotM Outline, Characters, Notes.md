@@ -7,7 +7,7 @@ TAGS: [[8 - Writing/Hollis of the Mountains Connecter\|Hollis of the Mountains C
 RELEVANT:
 [[2 - Sources/Notes on Writing a Novel by Tim Rogers\|Notes on Writing a Novel by Tim Rogers]],
 [[👧Names\|👧Names]],
-[[2 - Sources/Hamlet (Video) Notes\|Hamlet (Video) Notes]], 
+[[2 - Sources/Hamlet Play Notes\|Hamlet Play Notes]], 
 [[8 - Writing/New Alaska Mythos\|New Alaska Mythos]]
 [[6 - Main Notes/World Building LORE from OneNote\|World Building LORE from OneNote]]
 
@@ -28,26 +28,26 @@ SUMMARY
 From [[8 - Writing/New Alaska Mythos\|New Alaska Mythos]]
 
 1\. Intuition
-    1\. Instead of logic, they value being able to sense the direction of things. Gut instinct. 
+    1. Instead of logic, they value being able to sense the direction of things. Gut instinct. 
 
 2\. Imagination 
-    1\. Basically being a visionary.  
-    2\. Being able to come up with novel solutions out of whole cloth.
+    1. Basically being a visionary.  
+	2. Being able to come up with novel solutions out of whole cloth.
 
 3\. Belonging
-    1\. Your place in the universe.  
-    2\. What you want to do with your life. No wrong answer, E.G. I want to be a vagabond.
+	1\. Your place in the universe.  
+	2. What you want to do with your life. No wrong answer, E.G. I want to be a vagabond.
 
 4\. Mysticism/Spirituality
     1\. Value spirituality over material possession.   
-    2\. With enough mysticism, miracles can happen. Miracles come in flavors of the gods.  
-    3\. Belief in legends / folklore. 
-    4\. \*\*They believe in something like a Ragnarok, and believe one has happened already\*\* (which made the ‘miracles’ that happen today possible).  
-    5\. \*\*Believing in the Gods and Praying to God is a core value in society. If you don’t you’re believed to be missing something core.\*\* 
+    2. With enough mysticism, miracles can happen. Miracles come in flavors of the gods.  
+    3. Belief in legends / folklore. 
+    4. They believe in something like a Ragnarok, and believe one has happened already\*\* (which made the ‘miracles’ that happen today possible).  
+    5. Believing in the Gods and Praying to God is a core value in society. If you don’t you’re believed to be missing something core.\*\* 
 
 5\. Transcendence 
-    1\. With enough spirit you can gain god-like powers. (What powers??)
-    2\. Trying to gain something intangible made material, like a gift. Knowledge you shouldn’t know counts, too.  Or, you could meditate and wake to a silver prosthetic hand in your lap. This hand would operate, essentially, on magic. A miracle. 
+    1. With enough spirit you can gain god-like powers. (What powers??)
+    2. Trying to gain something intangible made material, like a gift. Knowledge you shouldn’t know counts, too. Or, you could meditate and wake to a silver prosthetic hand in your lap. This hand would operate, essentially, on magic. A miracle. 
 
 
 ## Plot Overview
@@ -72,7 +72,7 @@ From [[8 - Writing/New Alaska Mythos\|New Alaska Mythos]]
 
 ![five-act-play.webp](/img/user/Z-Images/five-act-play.webp)
 
-[[2 - Sources/Hamlet (Video) Notes\|Hamlet (Video) Notes]]
+[[2 - Sources/Hamlet Play Notes\|Hamlet Play Notes]]
 
 THIS IS WHERE IN [[8 - Writing/Jammey Inflames - Idea, Notes, Outline\|Jammey Inflames - Idea, Notes, Outline]] THE TERRORIST BLOW SHIT UP AND END WITH THE TRAGIC DEATH OF PARIS.
 

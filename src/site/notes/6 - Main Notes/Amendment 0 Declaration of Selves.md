@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/6-main-notes/amendment-0-declaration-of-selves/"}
 ---
 
-[[6 - Main Notes/Amendment 1 How to Find Magic\|Amendment 1 How to Find Magic]], [[WhoAmI\|WhoAmI]] 
+[[6 - Main Notes/Amendment 1 How to Find Magic\|Amendment 1 How to Find Magic]], [[3 - Tags/WhoAmI\|WhoAmI]] 
 
 
 **WE, the states inside the person born as Logan Baxter** writ here we have an unalienable set of beliefs and values we all must align on in order to be part of the overall system and take over headspace. Here, we agree on a core that grounds us all together. Else, we are part of an outer system. We agree, should any one part alter or state violate these severely enough we shall work in tandem to correct or otherwise rid ourselves of the offender.

@@ -16,8 +16,8 @@ RELEVANT:
 [[8 - Writing/Poetry/2025-08 August is Hot but Unemployment is Hell\|2025-08 August is Hot but Unemployment is Hell]]
 [[8 - Writing/Poetry/2025-09 It's Colder in September as I move to October my Unemployment makes it Colder still\|2025-09 It's Colder in September as I move to October my Unemployment makes it Colder still]]
 
-[[6 - Main Notes/2025 Poem - Fuck Balenciaga\|2025 Poem - Fuck Balenciaga]]
-[[6 - Main Notes/2025 Poem - You're the Bitch\|2025 Poem - You're the Bitch]]
+[[8 - Writing/Poetry/2025 Poem - Fuck Balenciaga\|2025 Poem - Fuck Balenciaga]]
+[[8 - Writing/Poetry/2025 Poem - You're the Bitch\|2025 Poem - You're the Bitch]]
 
 
 - - -

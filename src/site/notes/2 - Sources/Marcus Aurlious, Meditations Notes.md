@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/2-sources/marcus-aurlious-meditations-notes/"}
 ---
 
-TAGS: [[3 - Tags/Sources\|Sources]]
+TAGS: [[3 - Tags/Sources\|Sources]], [[3 - Tags/Philosophy\|Philosophy]]
 
 
 Meditations:
